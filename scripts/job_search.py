@@ -52,7 +52,7 @@ def format_job(job: dict) -> dict:
     return {
         "title": job.get("job_title", "N/A"),
         "company": job.get("employer_name", "N/A"),
-        "location": job.get("job_city", "") + (", " + job.get("job_state", "") if job.get("job_state") else ""),
+        "location": (job.get("job_city") or "") + (", " + (job.get("job_state") or "") if job.get("job_state") else ""),
         "remote": job.get("job_is_remote", False),
         "source": job.get("job_publisher", "N/A"),
         "posted": job.get("job_posted_at_datetime_utc", "")[:10] if job.get("job_posted_at_datetime_utc") else "N/A",
