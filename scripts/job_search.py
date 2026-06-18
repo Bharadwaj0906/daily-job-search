@@ -21,6 +21,8 @@ SEARCH_QUERIES = [
     "new grad AI engineer entry level",
     "entry level data scientist new graduate",
     "junior data analyst new grad",
+    "entry level machine learning engineer",
+    "new graduate AI ML engineer",
 ]
 
 JSEARCH_URL = "https://jsearch.p.rapidapi.com/search"
@@ -34,8 +36,8 @@ def search_jobs(query: str, location: str) -> list[dict]:
     params = {
         "query": f"{query} in {location}",
         "page": "1",
-        "num_pages": "2",
-        "date_posted": "today",
+        "num_pages": "3",
+        "date_posted": "3days",
         "employment_types": "FULLTIME",
     }
     try:
