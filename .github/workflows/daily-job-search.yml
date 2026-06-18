@@ -1,0 +1,32 @@
+name: Daily Job Search - New Grad AI/DS/DA Roles
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # 8am EST (13:00 UTC) every day
+  workflow_dispatch:       # Allow manual trigger anytime
+
+jobs:
+  search-jobs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run job search
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          LOCATION: ${{ secrets.JOB_LOCATION }}
+        run: python scripts/job_search.py
