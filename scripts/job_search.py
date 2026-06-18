@@ -18,11 +18,11 @@ GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"].strip()
 LOCATION = os.environ.get("JOB_LOCATION", "United States").strip()
 
 SEARCH_QUERIES = [
-    "new grad AI engineer entry level visa sponsorship",
-    "entry level data scientist new graduate visa sponsorship",
-    "junior data analyst new grad visa sponsorship",
-    "entry level machine learning engineer visa sponsorship",
-    "new graduate AI ML engineer OPT CPT sponsorship",
+    "new grad AI engineer entry level",
+    "entry level data scientist new graduate",
+    "junior data analyst entry level",
+    "entry level machine learning engineer",
+    "new graduate software engineer AI ML",
 ]
 
 JSEARCH_URL = "https://jsearch.p.rapidapi.com/search"
