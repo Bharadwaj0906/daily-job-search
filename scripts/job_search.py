@@ -11,11 +11,11 @@ from datetime import date
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-RAPIDAPI_KEY = os.environ["RAPIDAPI_KEY"]
-EMAIL_TO = os.environ["EMAIL_TO"]
-EMAIL_FROM = os.environ["EMAIL_FROM"]
-GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
-LOCATION = os.environ.get("JOB_LOCATION", "United States")
+RAPIDAPI_KEY = os.environ["RAPIDAPI_KEY"].strip()
+EMAIL_TO = os.environ["EMAIL_TO"].strip()
+EMAIL_FROM = os.environ["EMAIL_FROM"].strip()
+GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"].strip()
+LOCATION = os.environ.get("JOB_LOCATION", "United States").strip()
 
 SEARCH_QUERIES = [
     "new grad AI engineer entry level",
