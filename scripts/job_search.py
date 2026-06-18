@@ -172,6 +172,9 @@ def main():
         print(f"  Found {len(formatted)} results")
 
     unique_jobs = deduplicate(all_jobs)
+    # Sort: sponsored first, unknown second, no-sponsorship last
+    order = {"yes": 0, "unknown": 1, "no": 2}
+    unique_jobs.sort(key=lambda j: order.get(j.get("sponsorship", "unknown"), 1))
     print(f"Total unique jobs: {len(unique_jobs)}")
 
     if not unique_jobs:
