@@ -18,11 +18,11 @@ GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"].strip()
 LOCATION = os.environ.get("JOB_LOCATION", "United States").strip()
 
 SEARCH_QUERIES = [
-    "new grad AI engineer entry level",
-    "entry level data scientist new graduate",
-    "junior data analyst new grad",
-    "entry level machine learning engineer",
-    "new graduate AI ML engineer",
+    "new grad AI engineer entry level visa sponsorship",
+    "entry level data scientist new graduate visa sponsorship",
+    "junior data analyst new grad visa sponsorship",
+    "entry level machine learning engineer visa sponsorship",
+    "new graduate AI ML engineer OPT CPT sponsorship",
 ]
 
 JSEARCH_URL = "https://jsearch.p.rapidapi.com/search"
@@ -51,6 +51,8 @@ def search_jobs(query: str, location: str) -> list[dict]:
 
 
 def format_job(job: dict) -> dict:
+    desc = (job.get("job_description") or "").lower()
+    sponsorship = _check_sponsorship(job, desc)
     return {
         "title": job.get("job_title", "N/A"),
         "company": job.get("employer_name", "N/A"),
@@ -60,7 +62,29 @@ def format_job(job: dict) -> dict:
         "posted": job.get("job_posted_at_datetime_utc", "")[:10] if job.get("job_posted_at_datetime_utc") else "N/A",
         "url": job.get("job_apply_link", "#"),
         "salary": _format_salary(job),
+        "sponsorship": sponsorship,
     }
+
+
+def _check_sponsorship(job: dict, desc: str) -> str:
+    # Explicit API field
+    visa = job.get("visa_sponsorship")
+    if visa is True:
+        return "yes"
+    if visa is False:
+        return "no"
+    # Scan job description for signals
+    no_signals = ["not able to sponsor", "cannot sponsor", "no sponsorship", "will not sponsor",
+                  "must be authorized", "must be legally authorized", "without sponsorship"]
+    yes_signals = ["will sponsor", "sponsorship available", "h1b", "h-1b", "opt", "cpt",
+                   "visa sponsorship", "sponsorship provided"]
+    for s in no_signals:
+        if s in desc:
+            return "no"
+    for s in yes_signals:
+        if s in desc:
+            return "yes"
+    return "unknown"
 
 
 def _format_salary(job: dict) -> str:
@@ -91,10 +115,18 @@ def build_email_html(jobs: list[dict]) -> str:
     for j in jobs:
         remote_badge = '<span style="color:#22c55e;font-weight:bold;">[REMOTE]</span> ' if j["remote"] else ""
         loc = "Remote" if j["remote"] else (j["location"] or "N/A")
+        sp = j.get("sponsorship", "unknown")
+        if sp == "yes":
+            sponsor_badge = '<span style="background:#dcfce7;color:#15803d;padding:2px 6px;border-radius:4px;font-size:11px;font-weight:bold;">✅ SPONSORS VISA</span>'
+        elif sp == "no":
+            sponsor_badge = '<span style="background:#fee2e2;color:#dc2626;padding:2px 6px;border-radius:4px;font-size:11px;">❌ No Sponsorship</span>'
+        else:
+            sponsor_badge = '<span style="background:#fef9c3;color:#854d0e;padding:2px 6px;border-radius:4px;font-size:11px;">⚠️ Sponsorship Unknown</span>'
         rows += f"""
         <tr>
           <td style="padding:10px;border-bottom:1px solid #e5e7eb;">
-            <a href="{j['url']}" style="font-weight:bold;color:#4f46e5;text-decoration:none;">{remote_badge}{j['title']}</a><br>
+            <a href="{j['url']}" style="font-weight:bold;color:#4f46e5;text-decoration:none;">{remote_badge}{j['title']}</a>
+            &nbsp;{sponsor_badge}<br>
             <span style="color:#374151;">{j['company']}</span> &nbsp;|&nbsp;
             <span style="color:#6b7280;">{loc}</span> &nbsp;|&nbsp;
             <span style="color:#6b7280;">💰 {j['salary']}</span><br>
