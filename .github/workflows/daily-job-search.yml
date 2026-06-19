@@ -9,6 +9,8 @@ jobs:
   search-jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -30,3 +32,12 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           LOCATION: ${{ secrets.JOB_LOCATION }}
         run: python scripts/job_search.py
+
+      - name: Commit jobs_today.json for Claude Code agent
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add jobs_today.json || true
+          git diff --staged --quiet || git commit -m "chore: update jobs_today.json [$(date '+%Y-%m-%d')]"
+          git push || true

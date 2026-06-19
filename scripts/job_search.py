@@ -5,6 +5,7 @@ Sends digest email via Gmail SMTP
 """
 
 import os
+import json
 import smtplib
 import requests
 from datetime import date
@@ -177,6 +178,16 @@ def main():
     unique_jobs.sort(key=lambda j: order.get(j.get("sponsorship", "unknown"), 1))
     print(f"Total unique jobs: {len(unique_jobs)}")
 
+    # Always save jobs JSON (even if 0 jobs, so the file exists for commit)
+    jobs_file = "jobs_today.json"
+    with open(jobs_file, "w") as f:
+        json.dump({
+            "date": date.today().isoformat(),
+            "total": len(unique_jobs),
+            "jobs": unique_jobs
+        }, f, indent=2)
+    print(f"Saved {len(unique_jobs)} jobs to {jobs_file}")
+
     if not unique_jobs:
         print("No jobs found today — skipping email.")
         return
@@ -184,7 +195,10 @@ def main():
     today = date.today().strftime("%b %d")
     subject = f"[Job Digest {today}] {len(unique_jobs)} New Grad AI/DS/DA Roles"
     html = build_email_html(unique_jobs)
-    send_email(subject, html)
+    try:
+        send_email(subject, html)
+    except Exception as e:
+        print(f"Email failed (jobs still saved): {e}")
 
 
 if __name__ == "__main__":
