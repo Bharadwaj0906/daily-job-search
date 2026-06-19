@@ -181,11 +181,10 @@ def main():
 
     # Filter out staffing agencies / third-party recruiters
     staffing_keywords = [
-        "staffing", "recruiting", "recruitment", "consultancy", "consulting group",
-        "talent", "manpower", "hired", "hires", "solutions llc", "solutions inc",
+        "staffing", "recruiting", "recruitment", "consulting group",
+        "manpower", "solutions llc", "solutions inc",
         "tech solutions", "global solutions", "it solutions", "services llc",
-        "workforce", "placement", "headhunter", "contract", "outsourcing",
-        "infosys bpm", "tata consultancy", "wipro", "cognizant", "hcl",
+        "workforce", "placement", "headhunter", "outsourcing",
         "tek systems", "teksystems", "kforce", "robert half", "insight global",
         "apex systems", "cybercoders", "modis", "experis",
     ]
