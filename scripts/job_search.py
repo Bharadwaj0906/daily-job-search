@@ -173,6 +173,28 @@ def main():
         print(f"  Found {len(formatted)} results")
 
     unique_jobs = deduplicate(all_jobs)
+
+    # Only keep jobs from trusted sources
+    trusted_sources = {"indeed", "linkedin", "jobright.ai", "jobright", "linkedin jobs"}
+    unique_jobs = [j for j in unique_jobs if any(s in j["source"].lower() for s in trusted_sources)]
+    print(f"After source filter (Indeed/LinkedIn/JobRight): {len(unique_jobs)}")
+
+    # Filter out staffing agencies / third-party recruiters
+    staffing_keywords = [
+        "staffing", "recruiting", "recruitment", "consultancy", "consulting group",
+        "talent", "manpower", "hired", "hires", "solutions llc", "solutions inc",
+        "tech solutions", "global solutions", "it solutions", "services llc",
+        "workforce", "placement", "headhunter", "contract", "outsourcing",
+        "infosys bpm", "tata consultancy", "wipro", "cognizant", "hcl",
+        "tek systems", "teksystems", "kforce", "robert half", "insight global",
+        "apex systems", "cybercoders", "modis", "experis",
+    ]
+    unique_jobs = [
+        j for j in unique_jobs
+        if not any(kw in j["company"].lower() for kw in staffing_keywords)
+    ]
+    print(f"After staffing agency filter: {len(unique_jobs)}")
+
     # Sort: sponsored first, unknown second, no-sponsorship last
     order = {"yes": 0, "unknown": 1, "no": 2}
     unique_jobs.sort(key=lambda j: order.get(j.get("sponsorship", "unknown"), 1))
