@@ -142,7 +142,7 @@ def build_email_html(jobs: list[dict]) -> str:
       Location: <strong>{LOCATION}</strong> &nbsp;·&nbsp; <strong>{len(jobs)} jobs found</strong></p>
       <table style="width:100%;border-collapse:collapse;">{rows}</table>
       <p style="color:#9ca3af;font-size:12px;margin-top:20px;">
-        Sources: Indeed · LinkedIn · Glassdoor · JobRight.ai (via JSearch API)<br>
+        Sources: Indeed (via Claude MCP) · LinkedIn · Glassdoor · JSearch API<br>
         Automated by Claude Code + GitHub Actions
       </p>
     </body></html>"""
@@ -174,10 +174,16 @@ def main():
 
     unique_jobs = deduplicate(all_jobs)
 
-    # Only keep jobs from trusted sources
-    trusted_sources = {"indeed", "linkedin", "jobright.ai", "jobright", "linkedin jobs"}
-    unique_jobs = [j for j in unique_jobs if any(s in j["source"].lower() for s in trusted_sources)]
-    print(f"After source filter (Indeed/LinkedIn/JobRight): {len(unique_jobs)}")
+    # Merge in Indeed jobs if fetched separately (by indeed_search.py step)
+    indeed_file = "indeed_jobs.json"
+    if os.path.exists(indeed_file):
+        with open(indeed_file) as f:
+            indeed_jobs = json.load(f)
+        print(f"Merging {len(indeed_jobs)} Indeed jobs")
+        all_with_indeed = unique_jobs + indeed_jobs
+        unique_jobs = deduplicate(all_with_indeed)
+        print(f"After merging Indeed: {len(unique_jobs)}")
+        os.remove(indeed_file)
 
     # Filter out staffing agencies / third-party recruiters
     staffing_keywords = [
