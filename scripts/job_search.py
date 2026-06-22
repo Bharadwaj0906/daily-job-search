@@ -185,7 +185,8 @@ def main():
         print(f"After merging Indeed: {len(unique_jobs)}")
         os.remove(indeed_file)
 
-    # Filter out staffing agencies / third-party recruiters
+    # Filter out staffing agencies / third-party recruiters, and JobRight AI itself
+    # (jobright.ai is used as a source/platform, not a company to apply to)
     staffing_keywords = [
         "staffing", "recruiting", "recruitment", "consulting group",
         "manpower", "solutions llc", "solutions inc",
@@ -193,6 +194,7 @@ def main():
         "workforce", "placement", "headhunter", "outsourcing",
         "tek systems", "teksystems", "kforce", "robert half", "insight global",
         "apex systems", "cybercoders", "modis", "experis",
+        "jobright",
     ]
     unique_jobs = [
         j for j in unique_jobs
