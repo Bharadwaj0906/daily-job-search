@@ -38,7 +38,7 @@ def search_jobs(query: str, location: str) -> list[dict]:
         "query": f"{query} in {location}",
         "page": "1",
         "num_pages": "3",
-        "date_posted": "today",
+        "date_posted": "3days",
         "employment_types": "FULLTIME",
     }
     try:
@@ -202,9 +202,13 @@ def main():
     ]
     print(f"After staffing agency filter: {len(unique_jobs)}")
 
-    # Sort: sponsored first, unknown second, no-sponsorship last
+    # Sort: today's jobs first, then by sponsorship (yes → unknown → no)
+    today_str = date.today().isoformat()
     order = {"yes": 0, "unknown": 1, "no": 2}
-    unique_jobs.sort(key=lambda j: order.get(j.get("sponsorship", "unknown"), 1))
+    unique_jobs.sort(key=lambda j: (
+        0 if j.get("posted") == today_str else 1,
+        order.get(j.get("sponsorship", "unknown"), 1)
+    ))
     print(f"Total unique jobs: {len(unique_jobs)}")
 
     # Always save jobs JSON (even if 0 jobs, so the file exists for commit)
