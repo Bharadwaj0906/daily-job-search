@@ -38,7 +38,7 @@ def search_jobs(query: str, location: str) -> list[dict]:
         "query": f"{query} in {location}",
         "page": "1",
         "num_pages": "3",
-        "date_posted": "3days",
+        "date_posted": "today",
         "employment_types": "FULLTIME",
     }
     try:
