@@ -1,5 +1,325 @@
 {
-  "date": "2026-08-31",
-  "total": 0,
-  "jobs": []
+  "date": "2026-09-01",
+  "total": 29,
+  "jobs": [
+    {
+      "title": "Assistant Restaurant Manager - **New Restaurant** TEN TEN",
+      "company": "One Washington Circle, Tapestry Collection by Hilton",
+      "location": "Washington, District of Columbia",
+      "remote": false,
+      "source": "Concord Hospitality",
+      "posted": "2026-08-12",
+      "url": "https://careers.concordhotels.com/jobs/4361666-assistant-restaurant-manager-new-restaurant-ten-ten",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Senior Project Manager, New Construction",
+      "company": "The Donohoe Companies, Inc.",
+      "location": "Bethesda, Maryland",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "2026-08-13",
+      "url": "https://www.linkedin.com/jobs/view/senior-project-manager-new-construction-at-the-donohoe-companies-inc-4453260920",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "New Products Manufacturing Engineer",
+      "company": "Intralox",
+      "location": "Baltimore, Maryland",
+      "remote": false,
+      "source": "Indeed",
+      "posted": "2026-08-13",
+      "url": "https://www.indeed.com/viewjob?jk=eea14cdff501c776",
+      "salary": "$74,300 - $174,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Sr Account Manager, Flavor Sales (Southwest/Southeast)",
+      "company": "McCormick & Company",
+      "location": "Cockeysville, Maryland",
+      "remote": false,
+      "source": "McCormick Careers",
+      "posted": "2026-08-14",
+      "url": "https://careers.mccormick.com/job/HUNT-VALLEY-Sr-Account-Manager%2C-Flavor-Sales-%28SouthwestSoutheast%29-MD-21031/1400694800/",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Sr. Specialist - Warehouse Operations (Onsite)",
+      "company": "Merck",
+      "location": "Rahway, New Jersey",
+      "remote": false,
+      "source": "Merck Careers",
+      "posted": "2026-08-22",
+      "url": "https://jobs.merck.com/us/en/job/R413074/Sr-Specialist-Warehouse-Operations-Onsite",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Part Time Hub Supervisor (Night)",
+      "company": "UPS",
+      "location": "New Stanton, Pennsylvania",
+      "remote": false,
+      "source": "UPS Jobs",
+      "posted": "2026-08-14",
+      "url": "https://www.jobs-ups.com/us/en/job/UPBUPSGLOBALR26023468EXTERNALENUS/Part-Time-Hub-Supervisor-Night",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Branch Manager",
+      "company": "PNC",
+      "location": "Millburn, New Jersey",
+      "remote": false,
+      "source": "PNC Careers",
+      "posted": "2026-08-23",
+      "url": "https://careers.pnc.com/global/en/job/R227137/Branch-Manager",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Warehouse Operations Supervisor",
+      "company": "NFI Industries",
+      "location": "Woolwich Township, New Jersey",
+      "remote": false,
+      "source": "NFI Industries",
+      "posted": "N/A",
+      "url": "https://careers.nfiindustries.com/careers-home/jobs/29855?lang=en-us",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "New Store Opening- Assistant Manager- Selling Floor- Brunswick Square Rack",
+      "company": "Nordstrom",
+      "location": "East Brunswick, New Jersey",
+      "remote": false,
+      "source": "Careers At Nordstrom",
+      "posted": "2026-08-23",
+      "url": "https://careers.nordstrom.com/new-store-opening-assistant-manager-selling-floor-brunswick-square-rack/job/93BD3AA917DCB739CEE2EA1BAF58CE16",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Worship Pastor",
+      "company": "New Life Church",
+      "location": "Frederick, Maryland",
+      "remote": false,
+      "source": "Chemistry Staffing",
+      "posted": "N/A",
+      "url": "https://www.chemistrystaffing.com/job/new-life-church-worship-pastor-frederick-md/",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Branch Manager Tri County District",
+      "company": "Wells Fargo",
+      "location": "Berkeley Heights, New Jersey",
+      "remote": false,
+      "source": "Wells Fargo",
+      "posted": "2026-08-16",
+      "url": "https://www.wellsfargojobs.com/en/jobs/r-560068/branch-manager-tri-county-district/",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Retail Department Supervisor",
+      "company": "TJX Companies",
+      "location": "Parsippany-Troy Hills, New Jersey",
+      "remote": false,
+      "source": "Careers At Tjx - TJX Companies",
+      "posted": "2026-08-07",
+      "url": "https://jobs.tjx.com/global/en/job/REQ141298/Retail-Department-Supervisor",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Women's Locker Room Attendant",
+      "company": "Life Time",
+      "location": "Berkeley Heights, New Jersey",
+      "remote": false,
+      "source": "Lifetime Careers",
+      "posted": "2026-08-12",
+      "url": "https://careers.lifetime.life/job/R-168828/Women-s-Locker-Room-Attendant",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Senior Visual Designer and Brand Lead",
+      "company": "New America",
+      "location": "Washington, District of Columbia",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "N/A",
+      "url": "https://www.linkedin.com/jobs/view/senior-visual-designer-and-brand-lead-at-new-america-4442906573",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Kitchen Cook",
+      "company": "Sardi's Peruvian Chicken",
+      "location": "New Carrollton, Maryland",
+      "remote": false,
+      "source": "Indeed",
+      "posted": "N/A",
+      "url": "https://www.indeed.com/viewjob?jk=1858b53684319b26",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Business Analysis Manager, Capital One Shopping (Remote-Eligible",
+      "company": "Capital One",
+      "location": "McLean, Virginia",
+      "remote": false,
+      "source": "Capital One Career",
+      "posted": "N/A",
+      "url": "https://www.capitalonecareers.com/job/mclean/business-analysis-manager-capital-one-shopping-remote-eligible/1732/93234357408",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "New Construction Plumber",
+      "company": "Joseph J. Magnolia, Inc.",
+      "location": "Washington, District of Columbia",
+      "remote": false,
+      "source": "Paylocity",
+      "posted": "2026-08-20",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/Details/4170652/Joseph-J-Magnolia/New-Construction-Plumber",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Dealbook Reporter, DC",
+      "company": "The New York Times",
+      "location": "Washington, District of Columbia",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "N/A",
+      "url": "https://www.linkedin.com/jobs/view/dealbook-reporter-dc-at-the-new-york-times-4435377493",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Store Associate",
+      "company": "CVS Health",
+      "location": "Mt Ephraim, New Jersey",
+      "remote": false,
+      "source": "CVS Health Careers",
+      "posted": "2026-08-21",
+      "url": "https://jobs.cvshealth.com/us/en/job/R1013633/Store-Associate",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Senior Lead Software Engineer, Full Stack (Python, ReactJS, AWS)",
+      "company": "Capital One",
+      "location": "",
+      "remote": false,
+      "source": "Capital One Career",
+      "posted": "N/A",
+      "url": "https://www.capitalonecareers.com/job/new-york/senior-lead-software-engineer-full-stack-python-reactjs-aws/1732/96573397056",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Full-Time Store Associate (New Store)",
+      "company": "ALDI",
+      "location": "Seaford, Delaware",
+      "remote": false,
+      "source": "ALDI Career",
+      "posted": "2026-08-18",
+      "url": "https://careers.aldi.us/job/seaford/full-time-store-associate-new-store/61/99451795536",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Principal Data Analyst - Global Payment Network",
+      "company": "Capital One",
+      "location": "",
+      "remote": false,
+      "source": "Capital One Career",
+      "posted": "2026-08-04",
+      "url": "https://www.capitalonecareers.com/job/richmond/principal-data-analyst-global-payment-network/1732/98801815216",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Courier/DOT-2",
+      "company": "Federal Express Corporation",
+      "location": "Carteret, New Jersey",
+      "remote": false,
+      "source": "FedEx Careers",
+      "posted": "2026-08-21",
+      "url": "https://careers.fedex.com/courier-dot-2/job/P25-365233-1",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Wealth Management Client Associate",
+      "company": "Bank of America",
+      "location": "East Brunswick, New Jersey",
+      "remote": false,
+      "source": "Bank Of America Careers",
+      "posted": "2026-08-23",
+      "url": "https://careers.bankofamerica.com/en-us/job-detail/26030890/wealth-management-client-associate-east-brunswick-new-jersey-united-states-esomprank-heag4fmnsh-2",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Produce Inspector",
+      "company": "US Foods",
+      "location": "Perth Amboy, New Jersey",
+      "remote": false,
+      "source": "US Foods",
+      "posted": "2026-08-21",
+      "url": "https://careers.usfoods.com/us/en/job/R281577/Produce-Inspector",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "VP, Brand Partnerships & Strategic Growth",
+      "company": "Barnes & Noble Education, Inc.",
+      "location": "Florham Park, New Jersey",
+      "remote": false,
+      "source": "Barnes & Noble Education, Inc.",
+      "posted": "2026-08-24",
+      "url": "https://careers-bned.icims.com/jobs/24102/vp%2C-brand-partnerships-%26-strategic-growth/job",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Shift Supervisor",
+      "company": "CVS Health",
+      "location": "Jamesburg, New Jersey",
+      "remote": false,
+      "source": "CVS Health",
+      "posted": "2026-08-21",
+      "url": "https://jobs.cvshealth.com/us/en/job/R1013683/Shift-Supervisor",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Task Associate",
+      "company": "Ulta Beauty, Inc.",
+      "location": "Evesham, New Jersey",
+      "remote": false,
+      "source": "ULTA Beauty Careers",
+      "posted": "N/A",
+      "url": "https://careers.ulta.com/careers/jobs/498461?lang=en-us",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Delivery driver | New Market, VA",
+      "company": "Uber",
+      "location": "New Market, Virginia",
+      "remote": false,
+      "source": "Uber",
+      "posted": "2026-08-23",
+      "url": "https://www.uber.com/us/en/e/deliver/new-market-va-us/",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    }
+  ]
 }
