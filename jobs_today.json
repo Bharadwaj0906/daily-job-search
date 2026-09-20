@@ -1,62 +1,7 @@
 {
-  "date": "2026-09-19",
-  "total": 35,
+  "date": "2026-09-20",
+  "total": 28,
   "jobs": [
-    {
-      "title": "Data Insights Analyst (Entry / Junior)",
-      "company": "Cobalt Creed",
-      "location": "",
-      "remote": true,
-      "source": "LinkedIn",
-      "posted": "2026-09-19",
-      "url": "https://www.linkedin.com/jobs/view/data-insights-analyst-entry-junior-at-cobalt-creed-4468082250?position=59&pageNum=0&refId=XvzaU1IkDQecx7bXlN61AQ%3D%3D&trackingId=D3vtOJq7lSeit98CO4zVqQ%3D%3D",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "entry level data analyst/ java software developer",
-      "company": "SynergisticIT",
-      "location": "Henderson, Nevada",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-19",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/4FAfqu09GvX50bYE2xLXRr",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Early Career Business Analyst - Healthcare Claims",
-      "company": "Gainwell Technologies",
-      "location": "",
-      "remote": true,
-      "source": "LinkedIn",
-      "posted": "2026-09-19",
-      "url": "https://www.linkedin.com/jobs/view/early-career-business-analyst-healthcare-claims-at-gainwell-technologies-4466945340",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "AI Engineer - Entry to Expert Level (Maryland)",
-      "company": "National Security Agency",
-      "location": ", Maryland",
-      "remote": false,
-      "source": "Careers In Government",
-      "posted": "2026-09-19",
-      "url": "https://www.careersingovernment.com/job/3026223/ai-engineer-entry-to-expert-level-maryland/",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Business Data Analyst, Construction; Entry Level",
-      "company": "EMCOR Group",
-      "location": "Baltimore, Maryland",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-19",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/6rxn3W8jx8YApMZJDr2TMz",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
     {
       "title": "Agentic Engineer (New Grad)",
       "company": "Noom",
@@ -80,13 +25,13 @@
       "sponsorship": "yes"
     },
     {
-      "title": "2026 New Grad | Software Engineer, AI",
-      "company": "Loop",
-      "location": "San Francisco, California",
+      "title": "AI & Cloud Infra Software Engineer (Fresh Grad)",
+      "company": "Bitdeer (NASDAQ: BTDR)",
+      "location": "Massillon, Ohio",
       "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-17",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/7P9yuzkuMzMo62f6mjR0wt",
+      "source": "LinkedIn",
+      "posted": "2026-09-19",
+      "url": "https://www.linkedin.com/jobs/view/ai-cloud-infra-software-engineer-fresh-grad-at-bitdeer-nasdaq-btdr-4396468632",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -102,17 +47,6 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Analyst - Entry Level",
-      "company": "Global Engineering & Technology, Inc. (GET)",
-      "location": "Washington, District of Columbia",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-17",
-      "url": "https://www.linkedin.com/jobs/view/analyst-entry-level-at-global-engineering-technology-inc-get-4468663696",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
       "title": "Remote Data Scientist/Analyst (Entry/Junior Level)",
       "company": "Synergisticit",
       "location": "Cleveland, Ohio",
@@ -120,28 +54,6 @@
       "source": "SaluteMyJob",
       "posted": "2026-09-18",
       "url": "https://salutemyjob.com/jobs/remote-data-scientist-analyst-entry-junior-level-cleveland-ohio/2977852613-2/",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Data Analyst/Data Scientist - Junior Level (Remote)",
-      "company": "SynergisticIT",
-      "location": "",
-      "remote": true,
-      "source": "Monster",
-      "posted": "2026-09-16",
-      "url": "https://www.monster.com/job-openings/data-analyst-data-scientist-junior-level-remote-houston-tx--d382d7e6-28f9-4c93-b9be-03a0b1a170f0",
-      "salary": "$78,000 - $136,000 YEAR",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "ENTRY-LEVEL BUSINESS ANALYST",
-      "company": "Dhalite Inc.",
-      "location": "Pennsylvania Furnace, Pennsylvania",
-      "remote": false,
-      "source": "Dice",
-      "posted": "2026-09-17",
-      "url": "https://www.dice.com/job-detail/e042aa7d-c9b1-4c37-b0fe-9b454ee51165",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -157,14 +69,25 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Sustainability Data Analyst",
-      "company": "Worldly",
+      "title": "Offres d'emploi US: Data Analyst, Intern Marketing",
+      "company": "Laotop",
+      "location": "",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-09-18",
+      "url": "https://www.jobleads.com/us/job/offres-d-emploi-us-data-analyst-intern-marketing--united-states--e65b4182d9f4c8dd7115c11278d72fbb5",
+      "salary": "$90,000 - $130,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Early Career Business Analyst - Healthcare Claims",
+      "company": "Gainwell Technologies",
       "location": "",
       "remote": true,
       "source": "LinkedIn",
-      "posted": "2026-09-17",
-      "url": "https://www.linkedin.com/jobs/view/sustainability-data-analyst-at-worldly-4468388346",
-      "salary": "$75,000 - $90,000 YEAR",
+      "posted": "2026-09-18",
+      "url": "https://www.linkedin.com/jobs/view/early-career-business-analyst-healthcare-claims-at-gainwell-technologies-4466945340",
+      "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
@@ -179,46 +102,35 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Growth Analyst",
-      "company": "Lendable",
-      "location": "Rose Hill, Virginia",
-      "remote": false,
+      "title": "Investigations Analyst",
+      "company": "Katch",
+      "location": "",
+      "remote": true,
       "source": "LinkedIn",
       "posted": "2026-09-18",
-      "url": "https://www.linkedin.com/jobs/view/growth-analyst-at-lendable-4449397352",
+      "url": "https://www.linkedin.com/jobs/view/investigations-analyst-at-katch-4469235813",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
-      "title": "Cleared AI/ML Engineer",
-      "company": "Accenture Federal Services",
-      "location": "Tampa, Florida",
+      "title": "AI Engineer - Entry to Expert Level (Maryland)",
+      "company": "National Security Agency",
+      "location": "West Falls Church, Virginia",
       "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-17",
-      "url": "https://www.linkedin.com/jobs/view/cleared-ai-ml-engineer-at-accenture-federal-services-4413995766",
+      "source": "Careers In Government",
+      "posted": "2026-09-18",
+      "url": "https://www.careersingovernment.com/job/2990521/ai-engineer-entry-to-expert-level-maryland/",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
-      "title": "Entry Level Python Programmer/Data scientist/Analyst",
+      "title": "Software Developer - Entry Level",
       "company": "SynergisticIT",
-      "location": "Hollywood, Florida",
+      "location": "Dallas, Texas",
       "remote": false,
       "source": "Digitalhire",
-      "posted": "2026-09-16",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/2Po7XauDmRC5gstcpk49bP",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry Level Python Developer at SynergisticIT Arlington, TX",
-      "company": "SynergisticIT",
-      "location": "Arlington, Texas",
-      "remote": false,
-      "source": "Good Looks Landscaping",
-      "posted": "2026-09-16",
-      "url": "https://goodlookslandscaping.com/wp-job/job/entry-level-python-developer-at-synergisticit-arlington-tx-VTQ2TUlweVhzYmpOSzdNUlU2aUxFRXB6UVE9PQ==",
+      "posted": "2026-09-18",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/6j43ZxGtHxeZFrBJyoUQAl",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -234,47 +146,25 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Entry Level Software Engineering \u2013 Agentic AI & Workflow Automation 2027",
-      "company": "IBM",
-      "location": "New York, New York",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-16",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineering-%E2%80%93-agentic-ai-workflow-automation-2027-at-ibm-4457223013",
-      "salary": "$120,960 - $181,440 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "New Grad Software Engineer \u2014 AI Systems Impact",
-      "company": "United States Digital Space LLC",
-      "location": "San Francisco, California",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-09-16",
-      "url": "https://www.jobleads.com/us/job/new-grad-software-engineer-ai-systems-impact--san-francisco--ec87c5d63a31112bb3df271dc854188f9",
-      "salary": "$124,000 - $162,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
       "title": "AI Platform Engineer",
       "company": "MassMutual",
-      "location": "Palmer, Massachusetts",
+      "location": "Secaucus, New Jersey",
       "remote": false,
       "source": "Women For Hire- Job Board",
       "posted": "2026-09-18",
-      "url": "https://jobs.womenforhire.com/job/usa/three-rivers-ma/ai-platform-engineer-323270/",
+      "url": "https://jobs.womenforhire.com/job/usa/secaucus-nj/ai-platform-engineer-932160/",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
     {
-      "title": "Data Insights Analyst (Junior)",
-      "company": "Joyell Arscott Consulting Services",
-      "location": "Owings Mills, Maryland",
+      "title": "Junior Data Analyst: Data Warehousing & Predictive Analytics",
+      "company": "Immerse Analytics LLC",
+      "location": "Reston, Virginia",
       "remote": false,
       "source": "JobLeads",
-      "posted": "2026-09-16",
-      "url": "https://www.jobleads.com/us/job/data-insights-analyst-junior--owings-mills--northern--e75d27333d9f100c07d4a36a1571b466b",
-      "salary": "$42,000 - $62,000 YEAR",
+      "posted": "2026-09-17",
+      "url": "https://www.jobleads.com/us/job/junior-data-analyst-data-warehousing-predictive-analytics--reston--northern--e20c17767b03a41ab36c88036b52bf48b",
+      "salary": "$65,000 - $95,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -289,6 +179,28 @@
       "sponsorship": "unknown"
     },
     {
+      "title": "Business Data Analyst, Construction; Entry Level",
+      "company": "EMCOR Group",
+      "location": "Baltimore, Maryland",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-09-18",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/6rxn3W8jx8YApMZJDr2TMz",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Hybrid Data Analyst (Entry Level) \u2013 Orlando",
+      "company": "Collabera",
+      "location": "Orlando, Florida",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-09-18",
+      "url": "https://www.jobleads.com/us/job/hybrid-data-analyst-entry-level-orlando--orlando--e5b3fbb5edeabc64f8f37d7ce2d555691",
+      "salary": "$30,000 - $33,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
       "title": "Junior IT Analyst",
       "company": "ALICE + OLIVIA",
       "location": "New York, New York",
@@ -300,14 +212,36 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Remote Junior Data Analyst",
-      "company": "Angenex",
-      "location": "",
+      "title": "Hybrid Junior Business Analyst: Data & Process Improvement",
+      "company": "UES, Inc.",
+      "location": "Orlando, Florida",
       "remote": false,
-      "source": "Jooble",
-      "posted": "2026-09-16",
-      "url": "https://jooble.org/jdp/-6267600486202345543",
-      "salary": "Not listed",
+      "source": "JobLeads",
+      "posted": "2026-09-17",
+      "url": "https://www.jobleads.com/us/job/hybrid-junior-business-analyst-data-process-improvement--orlando--northern--edba2d899f1492545a182b1f226f6234b",
+      "salary": "$60,000 - $80,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Senior Database & Data Quality Analyst \u2013 Hybrid",
+      "company": "Nima Corporation",
+      "location": "Silver Spring, Maryland",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-09-17",
+      "url": "https://www.jobleads.com/us/job/senior-database-data-quality-analyst-hybrid--silver-spring--e5ee577aa8fd018c7cd47f67820751cf8",
+      "salary": "$105,000 - $110,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry Level Siting Analyst",
+      "company": "Jacobs",
+      "location": "Louisville, Kentucky",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "2026-09-18",
+      "url": "https://www.linkedin.com/jobs/view/entry-level-siting-analyst-at-jacobs-4469207244",
+      "salary": "$61,700 - $96,350 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -322,39 +256,6 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Entry Level Siting Analyst",
-      "company": "Jacobs",
-      "location": "Indianapolis, Indiana",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-18",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-siting-analyst-at-jacobs-4469191651",
-      "salary": "$61,700 - $96,350 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Business Intelligence Analyst",
-      "company": "re-zoo-me",
-      "location": "Eastern, Kentucky",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-09-16",
-      "url": "https://www.jobleads.com/us/job/business-intelligence-analyst--northern--e7d4ede499f549c1703a24fc6e6b9bf81",
-      "salary": "$80,000 - $100,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Data Analyst - Entry Level - Nashville, TN",
-      "company": "Tennessee Analytics Solutions",
-      "location": "Nashville, Tennessee",
-      "remote": false,
-      "source": "Vercel",
-      "posted": "2026-09-17",
-      "url": "https://mameworld.vercel.app/?jobs=en-job-junior-data-analyst-entry-level-1788594119218",
-      "salary": "$55,000 - $65,000 MONTH",
-      "sponsorship": "unknown"
-    },
-    {
       "title": "Revenue Systems Analyst",
       "company": "UpGuard",
       "location": "",
@@ -363,6 +264,17 @@
       "posted": "2026-09-18",
       "url": "https://www.linkedin.com/jobs/view/revenue-systems-analyst-at-upguard-4449181005",
       "salary": "$110,000 - $130,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry-Level ML Engineer \u2014 On-Site in Colorado",
+      "company": "Wings Credit Union",
+      "location": "Colorado Springs, Colorado",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-09-17",
+      "url": "https://www.jobleads.com/us/job/entry-level-ml-engineer-on-site-in-colorado--colorado-springs--northern--e85cac16135e9ca4ab336a16196e70b5b",
+      "salary": "$93,000 - $109,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -379,13 +291,24 @@
     {
       "title": "Entry-Level AI\u200b/ML Software Engineer; Backend",
       "company": "Commvault",
-      "location": "Seattle, Washington",
+      "location": "Columbus, Ohio",
       "remote": false,
       "source": "Learn4Good",
       "posted": "2026-09-17",
-      "url": "https://www.learn4good.com/jobs/seattle/washington/software_development/5477769082/e/",
+      "url": "https://www.learn4good.com/jobs/columbus/ohio/software_development/5477901845/e/",
       "salary": "$70,000 - $100,000 YEAR",
       "sponsorship": "unknown"
+    },
+    {
+      "title": "Senior Data Analyst \u2013 IT (Remote) \u2013 Advanced Business Intelligence, Data Visualization & Process Optimization at arenaflex",
+      "company": "vacancy global pro",
+      "location": "",
+      "remote": true,
+      "source": "Vacancy Global Pro",
+      "posted": "2026-09-17",
+      "url": "https://vacancyglobalpro.up.railway.app/job/senior-data-analyst-it-remote-advanced-business-intelligence-data-visualization-process-optimization-at-arenaflex",
+      "salary": "Not listed",
+      "sponsorship": "no"
     }
   ]
 }
