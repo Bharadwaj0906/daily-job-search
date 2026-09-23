@@ -1,71 +1,27 @@
 {
-  "date": "2026-09-22",
-  "total": 24,
+  "date": "2026-09-23",
+  "total": 20,
   "jobs": [
     {
-      "title": "AI Platform Engineer",
-      "company": "MassMutual",
-      "location": "Malden, Massachusetts",
-      "remote": false,
-      "source": "Women For Hire- Job Board",
-      "posted": "2026-09-22",
-      "url": "https://jobs.womenforhire.com/job/usa/malden-ma/ai-platform-engineer-182466/",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Forward Deployed Engineer, GenAI",
-      "company": "Scale AI",
+      "title": "Entry Level- AI Engineer",
+      "company": "BeaconFire Inc.",
       "location": "",
       "remote": false,
       "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-genai-at-scale-ai-4333867793",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
+      "posted": "2026-09-23",
+      "url": "https://www.linkedin.com/jobs/view/entry-level-ai-engineer-at-beaconfire-inc-4467388778",
+      "salary": "$62,000 - $80,000 YEAR",
+      "sponsorship": "yes"
     },
     {
-      "title": "Analyst",
-      "company": "D.R. Horton",
-      "location": "Arlington, Texas",
-      "remote": false,
+      "title": "junior data scientist /AI engineer/Java Developer",
+      "company": "SynergisticIT",
+      "location": "",
+      "remote": true,
       "source": "LinkedIn",
       "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/analyst-at-d-r-horton-4461503186",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Data Engineer I",
-      "company": "Varsity Brands",
-      "location": "Farmers Branch, Texas",
-      "remote": false,
-      "source": "Varsity Brands Jobs",
-      "posted": "2026-09-19",
-      "url": "https://careers.varsitybrands.com/us/en/job/JR114562/Data-Engineer-I",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Remote Data Scientist/Analyst (Entry/Junior Level)",
-      "company": "Synergisticit",
-      "location": "Huntsville, Alabama",
-      "remote": false,
-      "source": "SaluteMyJob",
-      "posted": "2026-09-21",
-      "url": "https://salutemyjob.com/jobs/remote-data-scientist-analyst-entry-junior-level-huntsville-alabama/2981996291-2/",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry-Level Marketing Data Analyst: Client Insights & Growth",
-      "company": "WebFX",
-      "location": ", Pennsylvania",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-09-19",
-      "url": "https://www.jobleads.com/us/job/entry-level-marketing-data-analyst-client-insights-growth--harrisburg--northern--ece12bbd33c3c8f0e8329129df65fb6cb",
-      "salary": "$50,000 - $53,000 YEAR",
+      "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-ai-engineer-java-developer-at-synergisticit-4469066517",
+      "salary": "$82,000 - $136,000 YEAR",
       "sponsorship": "yes"
     },
     {
@@ -74,64 +30,20 @@
       "location": "Henderson, Nevada",
       "remote": false,
       "source": "Digitalhire",
-      "posted": "2026-09-21",
+      "posted": "2026-09-22",
       "url": "https://jobs.digitalhire.com/job-listing/opening/4FAfqu09GvX50bYE2xLXRr",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
-      "title": "Junior Product Analyst",
-      "company": "Valeris",
-      "location": "Morrisville, North Carolina",
-      "remote": false,
+      "title": "junior software developer/data scientist",
+      "company": "SynergisticIT",
+      "location": "",
+      "remote": true,
       "source": "LinkedIn",
-      "posted": "2026-09-21",
-      "url": "https://www.linkedin.com/jobs/view/junior-product-analyst-at-valeris-4468181037",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry-Level Business Analyst \u2014 Data-Driven Problem Solver",
-      "company": "ATC",
-      "location": ", Wisconsin",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-09-19",
-      "url": "https://www.jobleads.com/us/job/entry-level-business-analyst-data-driven-problem-solver--town-of-texas--e99d045aa3cdb705d1d1a1bc69dd0ab26",
-      "salary": "$55,000 - $75,000 YEAR",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Junior Data Analyst",
-      "company": "SynergisticIT",
-      "location": "Hayward, California",
-      "remote": false,
-      "source": "Tech Engineer Jobs",
-      "posted": "2026-09-19",
-      "url": "https://techengineerjobs.ai/listings/4i9nzal9fnho-8c45d4aa00b20222aaeb-365e2ba01f63",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry Level Analyst",
-      "company": "MIT Lincoln Laboratory",
-      "location": "Lexington, Massachusetts",
-      "remote": false,
-      "source": "AI Search",
-      "posted": "2026-09-20",
-      "url": "https://ai-search.io/job-board/mit-lincoln-laboratory-entry-level-analyst-20241115",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry level Data Scientist / AI engineer/ Java Software programmer",
-      "company": "SynergisticIT",
-      "location": "Ramona, California",
-      "remote": false,
-      "source": "AI Search",
-      "posted": "2026-09-20",
-      "url": "https://ai-search.io/job-board/synergisticit-entry-level-data-scientist-ai-engineer-java-software-programmer-20250307",
-      "salary": "Not listed",
+      "posted": "2026-09-22",
+      "url": "https://www.linkedin.com/jobs/view/junior-software-developer-data-scientist-at-synergisticit-4469063935",
+      "salary": "$82,000 - $136,000 YEAR",
       "sponsorship": "yes"
     },
     {
@@ -146,15 +58,15 @@
       "sponsorship": "yes"
     },
     {
-      "title": "AI Engineer",
-      "company": "Shelter Insurance Companies",
-      "location": "Columbia, Missouri",
+      "title": "Gen Al / Agentic Al Engineer",
+      "company": "Synechron",
+      "location": "Charlotte, North Carolina",
       "remote": false,
-      "source": "Built In",
-      "posted": "2026-09-21",
-      "url": "https://builtin.com/job/ai-engineer/11306322",
-      "salary": "$90,646 - $112,382 YEAR",
-      "sponsorship": "unknown"
+      "source": "LinkedIn",
+      "posted": "2026-09-22",
+      "url": "https://www.linkedin.com/jobs/view/gen-al-agentic-al-engineer-at-synechron-4363130447",
+      "salary": "$90,000 - $110,000 YEAR",
+      "sponsorship": "yes"
     },
     {
       "title": "Entry-Level Data Analyst",
@@ -165,6 +77,17 @@
       "posted": "2026-09-21",
       "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-emonics-llc-4467684654",
       "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry-Level Occupational Safety and Health Data Analyst",
+      "company": "ERG",
+      "location": "",
+      "remote": true,
+      "source": "LinkedIn",
+      "posted": "2026-09-22",
+      "url": "https://www.linkedin.com/jobs/view/entry-level-occupational-safety-and-health-data-analyst-at-erg-4469026693",
+      "salary": "$58,000 - $70,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -179,36 +102,47 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "entry level data analyst with powerbi/ java software developer",
-      "company": "SynergisticIT",
-      "location": "Arlington, Virginia",
+      "title": "Junior Operations Analyst",
+      "company": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+      "location": "New York, New York",
       "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-21",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/32e4WZPdqo1etq6CxgZQ4f",
+      "source": "LinkedIn",
+      "posted": "2026-09-22",
+      "url": "https://www.linkedin.com/jobs/view/junior-operations-analyst-at-robertson-anschutz-schneid-crane-partners-pllc-4470610077",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
     {
-      "title": "HIM Analyst",
-      "company": "TALENT Software Services",
-      "location": "Morristown, New Jersey",
+      "title": "Junior Data Entry Specialist",
+      "company": "Only Data Entry",
+      "location": "Austin, Texas",
+      "remote": false,
+      "source": "Trabajo.org",
+      "posted": "2026-09-20",
+      "url": "https://us.trabajo.org/job-4023-70e6f28af498d677beed107799c31c63",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Renewable Energy Analyst (Entry-Level)",
+      "company": "Renewable Careers",
+      "location": "Naperville, Illinois",
       "remote": false,
       "source": "LinkedIn",
       "posted": "2026-09-21",
-      "url": "https://www.linkedin.com/jobs/view/him-analyst-at-talent-software-services-4467604865",
-      "salary": "Not listed",
+      "url": "https://www.linkedin.com/jobs/view/renewable-energy-analyst-entry-level-at-renewable-careers-4469911911",
+      "salary": "$80,000 - $100,000 YEAR",
       "sponsorship": "unknown"
     },
     {
-      "title": "Entry Level Data Analyst",
-      "company": "VirtualVocations",
-      "location": "Grand Rapids, Michigan",
+      "title": "Junior Data Analyst - Entry Level - Nashville, TN",
+      "company": "Tennessee Analytics Solutions",
+      "location": "Nashville, Tennessee",
       "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-19",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/2qtE8qlXyJvlWG6JVBiLRq",
-      "salary": "Not listed",
+      "source": "Vercel",
+      "posted": "2026-09-21",
+      "url": "https://mameworld.vercel.app/?jobs=en-job-junior-data-analyst-entry-level-1788594119218",
+      "salary": "$55,000 - $65,000 MONTH",
       "sponsorship": "unknown"
     },
     {
@@ -223,6 +157,17 @@
       "sponsorship": "unknown"
     },
     {
+      "title": "Machine Learning Engineer, Entry Level",
+      "company": "Emonics LLC",
+      "location": "Chicago, Illinois",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-09-21",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/40v8ZgOH0eXb4b2Cx6PtHK",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
       "title": "Junior Machine learning engineer/Jr Java devops Developer-remote",
       "company": "SynergisticIT",
       "location": ", Florida",
@@ -234,14 +179,25 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "2027 Entry Level Software Engineer",
-      "company": "BAE Systems",
-      "location": "San Diego, California",
+      "title": "Artificial Intelligence Engineer",
+      "company": "RK Infotech LLC",
+      "location": "Hopewell, Florida",
       "remote": false,
-      "source": "BAE Systems",
-      "posted": "2026-09-19",
-      "url": "https://jobs.baesystems.com/global/en/job/128864BR/2027-Entry-Level-Software-Engineer",
+      "source": "LinkedIn",
+      "posted": "2026-09-20",
+      "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-rk-infotech-llc-4433251810",
       "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "New Grad Software Engineer: AI-Driven Systems",
+      "company": "Engg",
+      "location": "San Francisco, California",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-09-20",
+      "url": "https://www.jobleads.com/us/job/new-grad-software-engineer-ai-driven-systems--san-francisco--e94df06f919ae844cfdd5aa414db39613",
+      "salary": "$110,000 - $170,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -250,7 +206,7 @@
       "location": "Bellevue, Washington",
       "remote": false,
       "source": "Snowflake Careers",
-      "posted": "2026-09-21",
+      "posted": "2026-09-22",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUSCBB9E570D9304DD1A91D14EE0C952429EXTERNALENUS1BAD12DFF443426F9D09E96FC780D698/AI-Research-Scientist-New-Grad-Agents-Reinforcement-Learning",
       "salary": "Not listed",
       "sponsorship": "unknown"
