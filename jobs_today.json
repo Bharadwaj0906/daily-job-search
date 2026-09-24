@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-23",
-  "total": 20,
+  "date": "2026-09-24",
+  "total": 7,
   "jobs": [
     {
       "title": "Entry Level- AI Engineer",
@@ -8,9 +8,20 @@
       "location": "",
       "remote": false,
       "source": "LinkedIn",
-      "posted": "2026-09-23",
+      "posted": "2026-09-24",
       "url": "https://www.linkedin.com/jobs/view/entry-level-ai-engineer-at-beaconfire-inc-4467388778",
       "salary": "$62,000 - $80,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "AI Engineer - Entry to Expert Level (Maryland)",
+      "company": "National Security Agency",
+      "location": "West Falls Church, Virginia",
+      "remote": false,
+      "source": "Careers In Government",
+      "posted": "2026-09-22",
+      "url": "https://www.careersingovernment.com/job/2990521/ai-engineer-entry-to-expert-level-maryland/",
+      "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
@@ -25,17 +36,6 @@
       "sponsorship": "yes"
     },
     {
-      "title": "entry level data analyst/ java software developer",
-      "company": "SynergisticIT",
-      "location": "Henderson, Nevada",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-22",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/4FAfqu09GvX50bYE2xLXRr",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
       "title": "junior software developer/data scientist",
       "company": "SynergisticIT",
       "location": "",
@@ -47,180 +47,37 @@
       "sponsorship": "yes"
     },
     {
-      "title": "AI & Cloud Infra Software Engineer (Fresh Grad)",
-      "company": "Bitdeer (NASDAQ: BTDR)",
-      "location": "",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-21",
-      "url": "https://www.linkedin.com/jobs/view/ai-cloud-infra-software-engineer-fresh-grad-at-bitdeer-nasdaq-btdr-4396477185",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Gen Al / Agentic Al Engineer",
-      "company": "Synechron",
-      "location": "Charlotte, North Carolina",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/gen-al-agentic-al-engineer-at-synechron-4363130447",
-      "salary": "$90,000 - $110,000 YEAR",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry-Level Data Analyst",
-      "company": "Emonics LLC",
-      "location": "New York, New York",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-21",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-data-analyst-at-emonics-llc-4467684654",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Entry-Level Occupational Safety and Health Data Analyst",
-      "company": "ERG",
-      "location": "",
-      "remote": true,
-      "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-occupational-safety-and-health-data-analyst-at-erg-4469026693",
-      "salary": "$58,000 - $70,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Analyst I",
-      "company": "Kobre & Kim",
-      "location": "Washington, District of Columbia",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-21",
-      "url": "https://www.linkedin.com/jobs/view/analyst-i-at-kobre-kim-4469952829",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Operations Analyst",
-      "company": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
-      "location": "New York, New York",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/junior-operations-analyst-at-robertson-anschutz-schneid-crane-partners-pllc-4470610077",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Data Entry Specialist",
-      "company": "Only Data Entry",
-      "location": "Austin, Texas",
-      "remote": false,
-      "source": "Trabajo.org",
-      "posted": "2026-09-20",
-      "url": "https://us.trabajo.org/job-4023-70e6f28af498d677beed107799c31c63",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Renewable Energy Analyst (Entry-Level)",
-      "company": "Renewable Careers",
-      "location": "Naperville, Illinois",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-21",
-      "url": "https://www.linkedin.com/jobs/view/renewable-energy-analyst-entry-level-at-renewable-careers-4469911911",
-      "salary": "$80,000 - $100,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Data Analyst - Entry Level - Nashville, TN",
-      "company": "Tennessee Analytics Solutions",
-      "location": "Nashville, Tennessee",
-      "remote": false,
-      "source": "Vercel",
-      "posted": "2026-09-21",
-      "url": "https://mameworld.vercel.app/?jobs=en-job-junior-data-analyst-entry-level-1788594119218",
-      "salary": "$55,000 - $65,000 MONTH",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Finance Data Analyst: Insights & Forecasting",
-      "company": "Atlantic Group",
-      "location": "",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-09-20",
-      "url": "https://www.jobleads.com/us/job/finance-data-analyst-insights-forecasting--united-states--e2bbc7285a8a83cb4c4c64438eaf77944",
-      "salary": "$65,000 - $90,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Machine Learning Engineer, Entry Level",
-      "company": "Emonics LLC",
-      "location": "Chicago, Illinois",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-21",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/40v8ZgOH0eXb4b2Cx6PtHK",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Machine learning engineer/Jr Java devops Developer-remote",
+      "title": "Entry level Data Scientist / AI engineer/ Java Software programmer",
       "company": "SynergisticIT",
-      "location": ", Florida",
+      "location": "Ramona, California",
       "remote": false,
-      "source": "Trabajo.org",
-      "posted": "2026-09-20",
-      "url": "https://us.trabajo.org/job-4023-f5c20a68305e81d558684620864b7a3c",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Artificial Intelligence Engineer",
-      "company": "RK Infotech LLC",
-      "location": "Hopewell, Florida",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-20",
-      "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-rk-infotech-llc-4433251810",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "New Grad Software Engineer: AI-Driven Systems",
-      "company": "Engg",
-      "location": "San Francisco, California",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-09-20",
-      "url": "https://www.jobleads.com/us/job/new-grad-software-engineer-ai-driven-systems--san-francisco--e94df06f919ae844cfdd5aa414db39613",
-      "salary": "$110,000 - $170,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "AI Research Scientist, New Grad \u2013 Agents & Reinforcement Learning",
-      "company": "Snowflake",
-      "location": "Bellevue, Washington",
-      "remote": false,
-      "source": "Snowflake Careers",
+      "source": "Ai-Search.io",
       "posted": "2026-09-22",
-      "url": "https://careers.snowflake.com/us/en/job/SNCOUSCBB9E570D9304DD1A91D14EE0C952429EXTERNALENUS1BAD12DFF443426F9D09E96FC780D698/AI-Research-Scientist-New-Grad-Agents-Reinforcement-Learning",
+      "url": "https://ai-search.io/job-board/synergisticit-entry-level-data-scientist-ai-engineer-java-software-programmer-20250307",
       "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Associate Software Engineer (Entry Level)/Data Engineer/Data Scientist with snowflake",
+      "company": "SynergisticIT",
+      "location": "Jersey City, New Jersey",
+      "remote": false,
+      "source": "Monster",
+      "posted": "2026-09-23",
+      "url": "https://www.monster.com/job-openings/associate-software-engineer-entry-level-data-engineer-data-scientist-with-snowflake-jersey-city-nj--3f448e34-c8d4-4793-a556-69b60a7800b3",
+      "salary": "$78,000 - $136,000 YEAR",
       "sponsorship": "unknown"
     },
     {
-      "title": "Investment Operations Analyst - Entry Level",
-      "company": "PrincePerelson and Associates",
-      "location": "Salt Lake City, Utah",
+      "title": "Mechanical Engineer-4",
+      "company": "Realign",
+      "location": "Irvine, California",
       "remote": false,
-      "source": "LinkedIn",
+      "source": "AI Jobs Map",
       "posted": "2026-09-21",
-      "url": "https://www.linkedin.com/jobs/view/investment-operations-analyst-entry-level-at-princeperelson-and-associates-4467601992",
-      "salary": "$47,000 - $56,000 YEAR",
-      "sponsorship": "no"
+      "url": "https://aijobsmap.com/jobs/27c62d8b350e0f50/mechanical-engineer-4-at-realign",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
     }
   ]
 }
