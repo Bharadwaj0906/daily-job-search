@@ -1,27 +1,16 @@
 {
-  "date": "2026-09-25",
-  "total": 35,
+  "date": "2026-09-26",
+  "total": 30,
   "jobs": [
     {
-      "title": "AI Engineering Associate",
-      "company": "Dext Capital",
-      "location": "Lake Oswego, Oregon",
+      "title": "Entry Level- AI Developer",
+      "company": "BeaconFire Inc.",
+      "location": "",
       "remote": false,
       "source": "LinkedIn",
       "posted": "2026-09-25",
-      "url": "https://www.linkedin.com/jobs/view/ai-engineering-associate-at-dext-capital-4471870483",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "AI Engineer - Entry to Expert Level (Maryland)",
-      "company": "National Security Agency",
-      "location": "West Falls Church, Virginia",
-      "remote": false,
-      "source": "Careers In Government",
-      "posted": "2026-09-24",
-      "url": "https://www.careersingovernment.com/job/2990521/ai-engineer-entry-to-expert-level-maryland/",
-      "salary": "Not listed",
+      "url": "https://www.linkedin.com/jobs/view/entry-level-ai-developer-at-beaconfire-inc-4470189316",
+      "salary": "$62,000 - $80,000 YEAR",
       "sponsorship": "yes"
     },
     {
@@ -36,28 +25,6 @@
       "sponsorship": "yes"
     },
     {
-      "title": "junior data scientist /AI engineer/Java Developer",
-      "company": "SynergisticIT",
-      "location": "",
-      "remote": true,
-      "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-ai-engineer-java-developer-at-synergisticit-4469066517",
-      "salary": "$82,000 - $136,000 YEAR",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "junior software developer/data scientist",
-      "company": "SynergisticIT",
-      "location": "",
-      "remote": true,
-      "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/junior-software-developer-data-scientist-at-synergisticit-4469063935",
-      "salary": "$82,000 - $136,000 YEAR",
-      "sponsorship": "yes"
-    },
-    {
       "title": "Associate Software Engineer",
       "company": "Toshiba Global Commerce Solutions",
       "location": "Durham, North Carolina",
@@ -69,35 +36,35 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Business Consultant - AI/ML Engineer",
-      "company": "NTT DATA  Services",
-      "location": "Chicago, Illinois",
+      "title": "AI Solutions Associate",
+      "company": "Omnea",
+      "location": "New York, New York",
       "remote": false,
-      "source": "NTT DATA Careers",
-      "posted": "2026-09-23",
-      "url": "https://careers-inc.nttdata.com/job/Chicago-Business-Consultant-AIML-Engineer-IL-60290/1422982400/",
+      "source": "LinkedIn",
+      "posted": "2026-09-25",
+      "url": "https://www.linkedin.com/jobs/view/ai-solutions-associate-at-omnea-4444427126",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
-      "title": "Early Career Cloud Engineer",
-      "company": "Haystack",
-      "location": "Atlanta, Georgia",
+      "title": "Field Engineer, Public Sector",
+      "company": "Scale AI",
+      "location": "Austin, Texas",
       "remote": false,
       "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/early-career-cloud-engineer-at-haystack-4469065598",
-      "salary": "$97,700 - $122,000 YEAR",
+      "posted": "2026-09-24",
+      "url": "https://www.linkedin.com/jobs/view/field-engineer-public-sector-at-scale-ai-4444229293",
+      "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
-      "title": "Junior Data/Business Analyst",
-      "company": "SynergisticIT",
-      "location": "San Diego, California",
+      "title": "Internal Forward Deployed Engineer, Entry Level",
+      "company": "VitalEdge Technologies",
+      "location": "Boston, Massachusetts",
       "remote": false,
-      "source": "ACCA Careers - ACCA Global",
-      "posted": "2026-09-22",
-      "url": "https://jobs.accaglobal.com/job/14156318/junior-data-business-analyst/",
+      "source": "Jobilize",
+      "posted": "2026-09-23",
+      "url": "https://www.jobilize.com/job/us-ma-boston-internal-forward-deployed-engineer-entry-level-vitaledge",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -113,6 +80,28 @@
       "sponsorship": "yes"
     },
     {
+      "title": "Remote Junior Business & Cost Analytics Analyst",
+      "company": "TISTA Science and Technology Corporation",
+      "location": "",
+      "remote": true,
+      "source": "JobLeads",
+      "posted": "2026-09-24",
+      "url": "https://www.jobleads.com/us/job/remote-junior-business-cost-analytics-analyst--united-states--efbe602bf8372b5869e8f1681159676f9",
+      "salary": "$63,000 - $71,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Entry Data Analyst",
+      "company": "SynergisticIT",
+      "location": "Wichita, Kansas",
+      "remote": false,
+      "source": "Trabajo.org",
+      "posted": "2026-09-23",
+      "url": "https://us.trabajo.org/job-4023-2d5aa718852a26bc734d84f489f00131",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
       "title": "Junior Data Analyst \u00e2\u20ac\u201c No Experience Needed",
       "company": "The Elite Job",
       "location": "Chicago, Illinois",
@@ -124,46 +113,46 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Entry level Java fullstack developer/Junior Machine learning engineer",
-      "company": "SynergisticIT",
-      "location": "Atlanta, Georgia",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-24",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/3xuEfE6fuEj1JTzqbbK48u",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Junior/Entry Level Data Engineer at SynergisticIT Houston, TX",
-      "company": "SynergisticIT",
-      "location": "Houston, Texas",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-23",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/7jTz1q4MZqSzjhyceqE2sG",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Applied Machine Learning Engineer, Circuit Design - New College Grad 2026",
-      "company": "NVIDIA",
+      "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
+      "company": "Quora",
       "location": "",
       "remote": true,
-      "source": "LinkedIn",
+      "source": "Startup Jobs",
       "posted": "2026-09-24",
-      "url": "https://www.linkedin.com/jobs/view/applied-machine-learning-engineer-circuit-design-new-college-grad-2026-at-nvidia-4395485157",
+      "url": "https://startup.jobs/software-engineer-new-grad-machine-learning-platform-quora-remote-quora-2-10200732",
+      "salary": "$97,600 - $139,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "AI Engineering Associate",
+      "company": "Dext Capital",
+      "location": "Lake Oswego, Oregon",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "2026-09-25",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineering-associate-at-dext-capital-4471870483",
       "salary": "Not listed",
       "sponsorship": "yes"
+    },
+    {
+      "title": "Entry-Level AI Engineer: Build World AI Apps",
+      "company": "A01098 GE Vernova International LLC",
+      "location": "Rock Hill, South Carolina",
+      "remote": false,
+      "source": "Learn4Good",
+      "posted": "2026-09-24",
+      "url": "https://www.learn4good.com/jobs/rock-hill/south-carolina/software_development/5492416970/e/",
+      "salary": "$70,000 - $106,000 YEAR",
+      "sponsorship": "unknown"
     },
     {
       "title": "Entry-Level ML Engineer \u2014 Mentored, World AI",
       "company": "Mayzax Solutions",
-      "location": "Dover, Delaware",
+      "location": "Middletown, Delaware",
       "remote": false,
       "source": "Learn4Good",
       "posted": "2026-09-24",
-      "url": "https://www.learn4good.com/jobs/dover/delaware/software_development/5493059522/e/",
+      "url": "https://www.learn4good.com/jobs/middletown/delaware/software_development/5492530533/e/",
       "salary": "$80,000 - $110,000 YEAR",
       "sponsorship": "unknown"
     },
@@ -190,36 +179,14 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Forward-Deployed Engineer, AI Recruiting Platform ($150K-$200K + Equity)",
-      "company": "CoffeeSpace",
-      "location": "San Francisco, California",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-ai-recruiting-platform-%24150k-%24200k-%2B-equity-at-coffeespace-4469013732",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "AI Engineer",
-      "company": "Shelter Insurance Companies",
-      "location": ", Missouri",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-shelter-insurance-companies-4470498490",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junor Business Systems Analyst (Entry Level, Remote, Summer 2027)",
-      "company": "ICF",
+      "title": "Junior Data Scientist/data Engineer/Analyst - Junior (Remote)",
+      "company": "SynergisticIT",
       "location": "",
       "remote": true,
-      "source": "LinkedIn",
-      "posted": "2026-09-24",
-      "url": "https://www.linkedin.com/jobs/view/junor-business-systems-analyst-entry-level-remote-summer-2027-at-icf-4470038813",
-      "salary": "Not listed",
+      "source": "Monster",
+      "posted": "2026-09-23",
+      "url": "https://www.monster.com/job-openings/junior-data-scientist-data-engineer-analyst-junior-remote-minneapolis-mn--9881019d-e5b7-4c74-9ce8-aa4f11f6afe3",
+      "salary": "$78,000 - $127,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -234,47 +201,14 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Entry-Level Occupational Safety and Health Data Analyst",
-      "company": "ERG",
-      "location": "",
-      "remote": true,
-      "source": "LinkedIn",
-      "posted": "2026-09-22",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-occupational-safety-and-health-data-analyst-at-erg-4469026693",
-      "salary": "$58,000 - $70,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Entry-Level Data Analyst",
-      "company": "Dhalite Inc.",
-      "location": "California City, California",
-      "remote": false,
-      "source": "Dice",
-      "posted": "2026-09-22",
-      "url": "https://www.dice.com/job-detail/e90b5824-0dfc-4d4f-8023-0781225604ae",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "entry level data analyst with powerbi/ java software developer",
-      "company": "SynergisticIT",
-      "location": "Arlington, Virginia",
+      "title": "Junior Data Analyst (Remote)",
+      "company": "Data Insight Partners",
+      "location": "Las Vegas, Nevada",
       "remote": false,
       "source": "Digitalhire",
-      "posted": "2026-09-24",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/32e4WZPdqo1etq6CxgZQ4f",
+      "posted": "2026-09-25",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/2xHuXIwC94P6nOGZvkm0Wc",
       "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Data Analyst - AML -Entry Level Role-Fresh Grads",
-      "company": "Collabera Inc.",
-      "location": "Orlando, Florida",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-09-22",
-      "url": "https://www.jobleads.com/us/job/data-analyst-aml-entry-level-role-fresh-grads--orlando--northern--eb253b2c19998835984218afe03b1c604",
-      "salary": "$28,000 - $39,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -285,6 +219,50 @@
       "source": "Trabajo.org",
       "posted": "2026-09-23",
       "url": "https://us.trabajo.org/job-4023-665363cf88e43d5f367a96725c6cdece",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Data Analyst-Entry Level-Internal Staffing-FT 9a-530p-BHC-27986",
+      "company": "Broward Health",
+      "location": "Fort Lauderdale, Florida",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-09-25",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/58X4qYcLELJt4zNeGLxMtc",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Healthcare Data Analyst - Entry Level",
+      "company": "Merative",
+      "location": "Michigan Center, Michigan",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-09-25",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/4jtESfgRlVu57AJJFgIMtn",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Renewable Energy Analyst (Entry-Level)",
+      "company": "Renewable Careers",
+      "location": "Pittsburgh, Pennsylvania",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "2026-09-25",
+      "url": "https://www.linkedin.com/jobs/view/renewable-energy-analyst-entry-level-at-renewable-careers-4472070615",
+      "salary": "$70,000 - $90,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry Level Data Analyst",
+      "company": "VirtualVocations",
+      "location": "Grand Rapids, Michigan",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-09-23",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/2qtE8qlXyJvlWG6JVBiLRq",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
@@ -300,39 +278,6 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Renewable Energy Analyst (Entry-Level)",
-      "company": "Renewable Careers",
-      "location": "Pittsburgh, Pennsylvania",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-09-23",
-      "url": "https://www.linkedin.com/jobs/view/renewable-energy-analyst-entry-level-at-renewable-careers-4470972913",
-      "salary": "$70,000 - $90,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Climate Data & GHG Reporting Analyst",
-      "company": "IBM",
-      "location": "Armonk, New York",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-09-22",
-      "url": "https://www.jobleads.com/us/job/climate-data-ghg-reporting-analyst--armonk--e8bd746679a9bb92a423ba010845b6312",
-      "salary": "$70,000 - $100,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Project Analyst - Flexible Schedule + Growth & Perks",
-      "company": "Jobs for Humanity",
-      "location": "Dallas, Texas",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-09-22",
-      "url": "https://www.jobleads.com/us/job/junior-project-analyst-flexible-schedule-growth-perks--dallas--ed215765857f647d2a4f6fff33c6d65b6",
-      "salary": "$45,000 - $65,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
       "title": "Business Analyst",
       "company": "RK Infotech LLC",
       "location": "Hopewell, Florida",
@@ -344,47 +289,47 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Entry Level Machine Learning Engineer at SynergisticIT Sacramento, CA",
-      "company": "SynergisticIT",
-      "location": "Sacramento, California",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-09-24",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/8K88PGV9G7r0vWrXgI2oY",
+      "title": "Graduate Software Engineer, AI Product Engineering",
+      "company": "Caselle, Inc.",
+      "location": "",
+      "remote": true,
+      "source": "LinkedIn",
+      "posted": "2026-09-23",
+      "url": "https://www.linkedin.com/jobs/view/graduate-software-engineer-ai-product-engineering-at-caselle-inc-4472255290",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
     {
-      "title": "AI-Driven Data Engineer \u2014 Entry Level (2027 Start)",
-      "company": "American Credit Acceptance, LLC",
-      "location": "Spartanburg, South Carolina",
+      "title": "AI Software Engineer \u2013 Entry Level (Intern Return) \u2013 Seattle",
+      "company": "F5",
+      "location": "Seattle, Washington",
       "remote": false,
       "source": "JobLeads",
-      "posted": "2026-09-22",
-      "url": "https://www.jobleads.com/us/job/ai-driven-data-engineer-entry-level-2027-start--spartanburg--e1041fa4e5f92bd1be6ebe073f840edf5",
-      "salary": "$65,000 - $90,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Software Engineer, AI\u200b/Machine Learning, PhD, Early Career",
-      "company": "Google",
-      "location": "Madison, Wisconsin",
-      "remote": false,
-      "source": "Learn4Good",
       "posted": "2026-09-24",
-      "url": "https://www.learn4good.com/jobs/madison/wisconsin/software_development/5491438224/e/",
-      "salary": "$147,000 - $210,000 YEAR",
+      "url": "https://www.jobleads.com/us/job/ai-software-engineer-entry-level-intern-return-seattle--seattle--e48fe2b01fb8070ba4c4e63e69e60d981",
+      "salary": "$127,000 - $190,000 YEAR",
       "sponsorship": "unknown"
     },
     {
-      "title": "Portfolio Operations Analyst \u2013 Entry Level",
-      "company": "PrincePerelson and Associates",
-      "location": "Salt Lake City, Utah",
+      "title": "Software Engineer \u2013 Forward Deployed AI; New Grad",
+      "company": "algojobs",
+      "location": "Oakland, California",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-09-24",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/1zJpccnB3FcTlMyGde0Z49",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Associate Analytics Engineer",
+      "company": "Allegion",
+      "location": "Carmel, Indiana",
       "remote": false,
       "source": "LinkedIn",
-      "posted": "2026-09-24",
-      "url": "https://www.linkedin.com/jobs/view/portfolio-operations-analyst-%E2%80%93-entry-level-at-princeperelson-and-associates-4470013986",
-      "salary": "$47,000 - $56,000 YEAR",
+      "posted": "2026-09-25",
+      "url": "https://www.linkedin.com/jobs/view/associate-analytics-engineer-at-allegion-4472210152",
+      "salary": "Not listed",
       "sponsorship": "no"
     }
   ]
