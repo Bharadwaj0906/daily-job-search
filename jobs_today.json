@@ -1,5 +1,182 @@
 {
-  "date": "2026-10-18",
-  "total": 0,
-  "jobs": []
+  "date": "2026-10-19",
+  "total": 16,
+  "jobs": [
+    {
+      "title": "entry level data analyst/ java software developer",
+      "company": "SynergisticIT",
+      "location": "Henderson, Nevada",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-19",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/4FAfqu09GvX50bYE2xLXRr",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "2026 New Grad | Software Engineer, AI",
+      "company": "Loop",
+      "location": "",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/7P9yuzkuMzMo62f6mjR0wt",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Data Analyst at Yexgo Michigan Center, MI",
+      "company": "Yexgo",
+      "location": "Michigan Center, Michigan",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/2FM9xuwqdH7IphMgvw1W7h",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Entry level Java fullstack developer/Junior Machine learning engineer",
+      "company": "SynergisticIT",
+      "location": "Atlanta, Georgia",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-17",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/3xuEfE6fuEj1JTzqbbK48u",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior/Entry Level Data Engineer at SynergisticIT Houston, TX",
+      "company": "SynergisticIT",
+      "location": "Houston, Texas",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/7jTz1q4MZqSzjhyceqE2sG",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Hybrid AI Labs Engineer \u2014 Entry\u2011Level",
+      "company": "Airbase",
+      "location": "",
+      "remote": false,
+      "source": "Learn4Good",
+      "posted": "2026-10-16",
+      "url": "https://www.learn4good.com/jobs/new-york/engineering/5550797428/e/",
+      "salary": "$70,000 - $100,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "entry level data analyst with powerbi/ java software developer",
+      "company": "SynergisticIT",
+      "location": "Arlington, Virginia",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/32e4WZPdqo1etq6CxgZQ4f",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Business Data Analyst, Construction; Entry Level",
+      "company": "EMCOR Group",
+      "location": "Baltimore, Maryland",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/6rxn3W8jx8YApMZJDr2TMz",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Associate Data Scientist/Analyst/Java full stack developer",
+      "company": "SynergisticIT",
+      "location": "Atlanta, Georgia",
+      "remote": false,
+      "source": "Monster",
+      "posted": "2026-10-16",
+      "url": "https://www.monster.com/job-openings/associate-data-scientist-analyst-java-full-stack-developer-atlanta-ga--d59747ac-09d7-42c3-9459-2bb6acc5c7d5",
+      "salary": "$79,000 - $136,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Fresher Data Analyst Jobs in Baltimore",
+      "company": "Cosmoquick",
+      "location": "Baltimore, Maryland",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/55wOOvdxDbncFQmuQou3x",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Healthcare Data Analyst - Entry Level",
+      "company": "Merative",
+      "location": "Michigan Center, Michigan",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/4jtESfgRlVu57AJJFgIMtn",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry Level Data Analyst",
+      "company": "VirtualVocations",
+      "location": "Grand Rapids, Michigan",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/2qtE8qlXyJvlWG6JVBiLRq",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry Level IS Business Systems Analyst",
+      "company": "Amgen",
+      "location": "New Albany, Ohio",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/5Z4CReq8XAN6NPLt0YlecB",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Junior Acquisitions Analyst",
+      "company": "Timberlane Partners",
+      "location": "Seattle, Washington",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/1f5GULYN0YPbQ9LWS4pZDH",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry Level Machine Learning Engineer at SynergisticIT Sacramento, CA",
+      "company": "SynergisticIT",
+      "location": "Sacramento, California",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/8K88PGV9G7r0vWrXgI2oY",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry-Level RL Software Engineer; Python \u2014 Build AI Environments",
+      "company": "Python Software Foundation",
+      "location": "San Francisco, California",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/3Nl65v7qN8pFsqY4iHQak9",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    }
+  ]
 }
