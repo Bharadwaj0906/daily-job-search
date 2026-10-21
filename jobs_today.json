@@ -1,7 +1,29 @@
 {
-  "date": "2026-10-20",
-  "total": 10,
+  "date": "2026-10-21",
+  "total": 12,
   "jobs": [
+    {
+      "title": "Computer Vision/ML Scientist",
+      "company": "Aicadium",
+      "location": "San Diego, California",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "2026-10-20",
+      "url": "https://www.linkedin.com/jobs/view/computer-vision-ml-scientist-at-aicadium-4480492610",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company": "NovaCruitix",
+      "location": "Sunnyvale, California",
+      "remote": false,
+      "source": "Visa Sponsor Jobs",
+      "posted": "2026-10-18",
+      "url": "https://visasponsor.jobs/job/junior-data-analyst-2",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
     {
       "title": "entry level data analyst/ java software developer",
       "company": "SynergisticIT",
@@ -14,48 +36,15 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Business Analyst - Entry Level",
-      "company": "CGI",
-      "location": "Miami, Florida",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-10-17",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/OXmY3lZviqmrWtGs9hdZf",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
       "title": "Entry level Java fullstack developer/Junior Machine learning engineer",
       "company": "SynergisticIT",
       "location": "Atlanta, Georgia",
       "remote": false,
       "source": "Digitalhire",
-      "posted": "2026-10-17",
+      "posted": "2026-10-19",
       "url": "https://jobs.digitalhire.com/job-listing/opening/3xuEfE6fuEj1JTzqbbK48u",
       "salary": "Not listed",
       "sponsorship": "yes"
-    },
-    {
-      "title": "Junior/Entry Level Data Engineer at SynergisticIT Lacey, WA",
-      "company": "SynergisticIT",
-      "location": "Lacey, Washington",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-10-17",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/2Ph65zUq8q5ZSMbK1j1KYT",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Generative AI Engineer, Entry Level (LLMs)",
-      "company": "Emonics LLC",
-      "location": "Los Angeles, California",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-10-17",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/LstlWso2xSuGMN5lWCRAj",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
     },
     {
       "title": "entry level data analyst with powerbi/ java software developer",
@@ -63,54 +52,87 @@
       "location": "Arlington, Virginia",
       "remote": false,
       "source": "Digitalhire",
-      "posted": "2026-10-17",
+      "posted": "2026-10-19",
       "url": "https://jobs.digitalhire.com/job-listing/opening/32e4WZPdqo1etq6CxgZQ4f",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
     {
-      "title": "AML- Data Analyst-Entry Level Role",
-      "company": "Collabera",
-      "location": "",
+      "title": "Entry-Level Occupational Safety and Health Data Analyst",
+      "company": "Eastern Research Group, Inc.",
+      "location": "Arlington, Virginia",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-10-18",
+      "url": "https://www.jobleads.com/us/job/entry-level-occupational-safety-and-health-data-analyst--arlington--e09909134b4e8f3db01922ee8692a9f7d",
+      "salary": "$58,000 - $70,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Junior Operations Analyst",
+      "company": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+      "location": "Westbury, New York",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-10-18",
+      "url": "https://www.jobleads.com/us/job/junior-operations-analyst--village-of-westbury--e900c981f5044c482f81007dab96248ca",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry Level IS Business Systems Analyst",
+      "company": "Amgen",
+      "location": "New Albany, Ohio",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-19",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/5Z4CReq8XAN6NPLt0YlecB",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Part-Time Data Analyst I: Insights & Dashboards",
+      "company": "Axos Bank",
+      "location": "Omaha, Nebraska",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-10-18",
+      "url": "https://www.jobleads.com/us/job/part-time-data-analyst-i-insights-dashboards--omaha--eba7808b12d482fbac7174b8b96c1d422",
+      "salary": "$28,000 - $29,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry-Level RL Software Engineer; Python \u2014 Build AI Environments",
+      "company": "Python Software Foundation",
+      "location": "San Francisco, California",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-19",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/3Nl65v7qN8pFsqY4iHQak9",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "AI and Data Science Engineer III at Deloitte Rosslyn, VA",
+      "company": "Deloitte",
+      "location": "Arlington, Virginia",
+      "remote": false,
+      "source": "Spark Rocket Marketing",
+      "posted": "2026-10-19",
+      "url": "https://sparkrocketmarketing.com/job-listing/job/ai-and-data-science-engineer-iii-at-deloitte-rosslyn-va-MUk0bmpqaGVYOTBNdjZVcDgxc2kxTUoxRGc9PQ==",
+      "salary": "Not listed",
+      "sponsorship": "no"
+    },
+    {
+      "title": "Summer 2027 Data Science R&D Graduate Intern",
+      "company": "Highmark Health",
+      "location": "Indianapolis, Indiana",
       "remote": false,
       "source": "Talent.com",
-      "posted": "2026-10-17",
-      "url": "https://www.talent.com/view?id=642094472072922282",
+      "posted": "2026-10-19",
+      "url": "https://www.talent.com/view?id=642435218881054169",
       "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Business Data Analyst, Construction; Entry Level",
-      "company": "EMCOR Group",
-      "location": "Baltimore, Maryland",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-10-17",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/6rxn3W8jx8YApMZJDr2TMz",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Remote Junior Data Analyst Learn & Analyze Insights at New iTalent Digital United States",
-      "company": "New iTalent Digital",
-      "location": "Milwaukee, Wisconsin",
-      "remote": false,
-      "source": "Iamkbdesigns",
-      "posted": "2026-10-17",
-      "url": "https://iamkbdesigns.com/office/job/remote-junior-data-analyst-learn-analyze-insights-at-new-italent-digital-united-states-cU82cmZQRDd0dUltYUcrckRhQWpyU3NoL1E9PQ==",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Healthcare Data Analyst - Entry Level",
-      "company": "Merative",
-      "location": "Michigan Center, Michigan",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-10-17",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/4jtESfgRlVu57AJJFgIMtn",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
+      "sponsorship": "no"
     }
   ]
 }
