@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23",
-  "total": 42,
+  "date": "2026-10-24",
+  "total": 52,
   "jobs": [
     {
       "title": "Software Engineer I, AI",
@@ -25,6 +25,17 @@
       "sponsorship": "yes"
     },
     {
+      "title": "2026 New Grad | Software Engineer, AI",
+      "company": "Loop",
+      "location": "San Francisco, California",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-10-21",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/7P9yuzkuMzMo62f6mjR0wt",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
       "title": "Entry Level ML Engineer",
       "company": "SynergisticIT",
       "location": "",
@@ -36,13 +47,13 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Junior Level Software Developer",
+      "title": "Junior Java Developer \u2013 & Spring AI Focus",
       "company": "SynergisticIT",
-      "location": "Santa Monica, California",
+      "location": ", Minnesota",
       "remote": false,
       "source": "Talent.com",
       "posted": "2026-10-21",
-      "url": "https://www.talent.com/view?id=642670061522331153",
+      "url": "https://www.talent.com/view?id=642670032626522387",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -69,6 +80,17 @@
       "sponsorship": "yes"
     },
     {
+      "title": "Governance Engineer II - Remote",
+      "company": "CSAA Insurance Group, a AAA Insurer",
+      "location": "Provo, Utah",
+      "remote": false,
+      "source": "College Recruiter",
+      "posted": "2026-10-22",
+      "url": "https://www.collegerecruiter.com/job/2959982148-governance-engineer-ii-remote",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
       "title": "Entry Level ProgrammerCoderDeveloperData ScientistAnalystEngineer",
       "company": "SynergisticIT",
       "location": "Goodyear, Arizona",
@@ -80,13 +102,13 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Entry-Level Java DeveloperData Scientist",
-      "company": "SynergisticIT",
-      "location": "Dallas, Texas",
-      "remote": false,
-      "source": "Talent.com",
+      "title": "Remote Entry-Level Data Analyst \u2013 Launch Your Tech Career with Cutting-Edge Analytics & Growth Opportunities",
+      "company": "Hireloom",
+      "location": "",
+      "remote": true,
+      "source": "Hireloom",
       "posted": "2026-10-21",
-      "url": "https://www.talent.com/view?id=642670041042458899",
+      "url": "https://hirefinity.p3d.66ghz.com/remote-jobs/remote-entry-level-data-analyst-launch-your-tech-career-with-cutting-edge-analytics-growth-opportunities-6",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -98,6 +120,17 @@
       "source": "Talent.com",
       "posted": "2026-10-21",
       "url": "https://www.talent.com/view?id=642670080299238833",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Data Analyst Entry Level",
+      "company": "SynergisticIT",
+      "location": "White Plains, New York",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642689988802120945",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -124,17 +157,6 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Junior Data Analyst (Remote)",
-      "company": "SynergisticIT",
-      "location": "Dallas, Texas",
-      "remote": false,
-      "source": "Jooble",
-      "posted": "2026-10-21",
-      "url": "https://jooble.org/jdp/6113424913009991231",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
       "title": "Junior Data AnalystEngineerScientist",
       "company": "SynergisticIT",
       "location": "Fargo, North Dakota",
@@ -157,24 +179,46 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Entry-Level Statistical Analyst",
+      "title": "Junior Data Analyst with snowflakeJava Programmer",
       "company": "SynergisticIT",
-      "location": "Bowling Green, Ohio",
+      "location": "",
       "remote": false,
       "source": "Talent.com",
       "posted": "2026-10-21",
-      "url": "https://www.talent.com/view?id=642678994821654033",
+      "url": "https://www.talent.com/view?id=642670025763849649",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
-      "title": "Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)",
-      "company": "Agoda",
-      "location": "Denver, Colorado",
+      "title": "Junior Data AnalystEngineer",
+      "company": "SynergisticIT",
+      "location": "Salt Lake City, Utah",
       "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-10-20",
-      "url": "https://www.linkedin.com/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-at-agoda-4480764678",
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642670031503890707",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Accounting Analyst - Junior",
+      "company": "Cape Fox Corporation",
+      "location": "Aurora, Colorado",
+      "remote": false,
+      "source": "ZipRecruiter",
+      "posted": "2026-10-21",
+      "url": "https://www.ziprecruiter.com/c/cape-fox-federal-contracting-group/Job/Accounting-Analyst-Junior/-in-80011,CO?jid=1fef2ebd8ca1fa04",
+      "salary": "$70,000 - $72,400 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "junior Data analyst Data Scientist Java programmer",
+      "company": "SynergisticIT",
+      "location": "Lexington, Kentucky",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642670082146379281",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -185,7 +229,7 @@
       "remote": false,
       "source": "Talent.com",
       "posted": "2026-10-21",
-      "url": "https://www.talent.com/view?id=642676925759753457",
+      "url": "https://www.talent.com/view?id=642690003427331313",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -201,17 +245,6 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Entry-Level Operations Analyst",
-      "company": "SynergisticIT",
-      "location": "Burlington, Colorado",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-21",
-      "url": "https://www.talent.com/view?id=642670055860798897",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
       "title": "Entry Level Machine Learning Engineer",
       "company": "SynergisticIT",
       "location": "Georgetown, Delaware",
@@ -219,6 +252,39 @@
       "source": "Talent.com",
       "posted": "2026-10-21",
       "url": "https://www.talent.com/view?id=642670071037101489",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "EntryJunior Level Machine Learning EngineerData Scientist",
+      "company": "SynergisticIT",
+      "location": "Buffalo, Iowa",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642670058152139027",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Machine learningAI engineerSoftware Developer",
+      "company": "SynergisticIT",
+      "location": "Albany, Georgia",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642670078717789617",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Entry level AIMachine learning engineerJava Programmer",
+      "company": "SynergisticIT",
+      "location": ", Iowa",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642678730803447217",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -234,24 +300,13 @@
       "sponsorship": "yes"
     },
     {
-      "title": "entry level machine learning engineer/ Junior Java programmer at SynergisticIT Los Angeles, CA",
+      "title": "Entry Level Software Developer / Software Engineer at SynergisticIT Hobbs, NM",
       "company": "SynergisticIT",
-      "location": "Los Angeles, California",
+      "location": "Hobbs, New Mexico",
       "remote": false,
-      "source": "Digitalhire",
+      "source": "Rudlin.com",
       "posted": "2026-10-21",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/Fg3s2spI0Y5sHM8hpGWqL",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry Level Software Engineer",
-      "company": "SynergisticIT",
-      "location": "Springfield, Vermont",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-21",
-      "url": "https://www.talent.com/view?id=642670028364588561",
+      "url": "https://rudlin.com/career/job/entry-level-software-developer-software-engineer-at-synergisticit-hobbs-nm-Vk5EdGZ2cW8zMmRVVjhhUzhvdy9xaC9nY0E9PQ==",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -267,6 +322,61 @@
       "sponsorship": "yes"
     },
     {
+      "title": "Data ScientistEngineerAnalyst Entry Level",
+      "company": "SynergisticIT",
+      "location": "Macon, Missouri",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642670072831944209",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Entry Level Python Programmer/Data scientist/Analyst",
+      "company": "Hireloom",
+      "location": "",
+      "remote": true,
+      "source": "Hireloom",
+      "posted": "2026-10-21",
+      "url": "https://hirefinity.p3d.66ghz.com/remote-jobs/entry-level-python-programmer-data-scientist-analyst-11",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Level Software Developer",
+      "company": "SynergisticIT",
+      "location": "Santa Monica, California",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642670061522331153",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Data Scientist",
+      "company": "SynergisticIT",
+      "location": "Jacksonville, Florida",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642676938554215665",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Entry Level Data AnalystEngineer",
+      "company": "SynergisticIT",
+      "location": "Minneapolis, Minnesota",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/es/view?id=642670080207627793",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
       "title": "Java Full Stack Developer with cloud ( Entry Level )",
       "company": "SynergisticIT",
       "location": "Denton, Texas",
@@ -278,13 +388,24 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Data ScientistEngineerAnalyst Entry Level",
+      "title": "Entry Level JavaDevOps Developer",
       "company": "SynergisticIT",
-      "location": "Macon, Missouri",
+      "location": "",
       "remote": false,
       "source": "Talent.com",
       "posted": "2026-10-21",
-      "url": "https://www.talent.com/view?id=642670072831944209",
+      "url": "https://www.talent.com/view?id=642679423169534227",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Data ScientistEngineer EntryJunior",
+      "company": "SynergisticIT",
+      "location": "Charlotte, North Carolina",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642679426620135699",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -300,6 +421,17 @@
       "sponsorship": "yes"
     },
     {
+      "title": "Entry-Level React Developer",
+      "company": "SynergisticIT",
+      "location": "Blaine, Washington",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642670072208434705",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
       "title": "AI/ML Engineer, 2027 New Grad",
       "company": "BrainCo",
       "location": "San Francisco, California",
@@ -311,47 +443,36 @@
       "sponsorship": "yes"
     },
     {
-      "title": "AI Generalist",
-      "company": "Cortrucent Security",
-      "location": "Berlin, New Jersey",
+      "title": "AI Software Engineer (2027 New College Graduate)",
+      "company": "GlobalFoundries",
+      "location": "Santa Clara, Texas",
       "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-10-20",
-      "url": "https://www.linkedin.com/jobs/view/ai-generalist-at-cortrucent-security-4481754473",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
+      "source": "Jobright",
+      "posted": "2026-10-21",
+      "url": "https://jobright.ai/jobs/info/6ad9285154bbabbab070d4f4",
+      "salary": "$72,000 - $142,000 YEAR",
+      "sponsorship": "yes"
     },
     {
-      "title": "Entry Level Machine Learning Engineer at SynergisticIT Sacramento, CA",
+      "title": "Entry level Data Scientist / AI engineer/ Java Software programmer",
       "company": "SynergisticIT",
-      "location": "Sacramento, California",
+      "location": "Ramona, California",
       "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-10-20",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/8K88PGV9G7r0vWrXgI2oY",
+      "source": "AI Search",
+      "posted": "2026-10-21",
+      "url": "https://ai-search.io/job-board/synergisticit-entry-level-data-scientist-ai-engineer-java-software-programmer-20250307",
       "salary": "Not listed",
-      "sponsorship": "unknown"
+      "sponsorship": "yes"
     },
     {
-      "title": "Software Engineer I",
-      "company": "Rocket",
-      "location": "Detroit, Michigan",
-      "remote": false,
-      "source": "LinkedIn",
+      "title": "Remote Junior Business Analyst - Data & Integration",
+      "company": "Peraton",
+      "location": "",
+      "remote": true,
+      "source": "JobLeads",
       "posted": "2026-10-21",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-rocket-4442893738",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "WorldQuant Technology Talent Network",
-      "company": "WorldQuant",
-      "location": "Miami, Florida",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-10-21",
-      "url": "https://www.linkedin.com/jobs/view/worldquant-technology-talent-network-at-worldquant-4409495648",
-      "salary": "Not listed",
+      "url": "https://www.jobleads.com/us/job/remote-junior-business-analyst-data-integration--herndon--e5070b7f2f2a2b7365f772c60c209987a",
+      "salary": "$49,000 - $82,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -366,25 +487,14 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Remote Junior Business Analyst: Data & Process Improvement",
-      "company": "Kareer Basycs",
-      "location": "",
-      "remote": true,
-      "source": "JobLeads",
-      "posted": "2026-10-20",
-      "url": "https://www.jobleads.com/us/job/remote-junior-business-analyst-data-process-improvement--united-states--eecf80133231ae8944a6e02ef88e2e92a",
-      "salary": "$65,000 - $85,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Entry-Level Sales Operations Analyst (Data-Driven & Impactful)",
-      "company": "Year Up United",
-      "location": ", Pennsylvania",
+      "title": "Hybrid Data Scientist: Entry-Level ML & Analytics",
+      "company": "Refocus LLC",
+      "location": ", New Jersey",
       "remote": false,
       "source": "JobLeads",
-      "posted": "2026-10-20",
-      "url": "https://www.jobleads.com/us/job/entry-level-sales-operations-analyst-data-driven-impactful--penn-hills--e036e8b7123ad73a51804e3c45b725fed",
-      "salary": "$40,000 - $55,000 YEAR",
+      "posted": "2026-10-21",
+      "url": "https://www.jobleads.com/us/job/hybrid-data-scientist-entry-level-ml-analytics--new-jersey--eba7cde15b68fa695443540405626b1b8",
+      "salary": "$90,000 - $110,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -399,35 +509,13 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Healthcare Data Analyst - Entry Level",
-      "company": "Merative",
-      "location": "Michigan Center, Michigan",
+      "title": "JuniorEntry Level Software Engineer",
+      "company": "SynergisticIT",
+      "location": "Carlsbad, California",
       "remote": false,
-      "source": "Digitalhire",
+      "source": "Talent.com",
       "posted": "2026-10-21",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/4jtESfgRlVu57AJJFgIMtn",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "IT Business Analyst (Entry Level, Insurance)",
-      "company": "Marsh McLennan",
-      "location": "",
-      "remote": true,
-      "source": "Jobgether",
-      "posted": "2026-10-21",
-      "url": "https://jobgether.com/offer/6ad86a17a8fae18ba2d7946c-it-business-analyst-entry-level-insurance",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Machine Learning Engineer, Entry Level",
-      "company": "Emonics LLC",
-      "location": "Chicago, Illinois",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-10-20",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/40v8ZgOH0eXb4b2Cx6PtHK",
+      "url": "https://www.talent.com/view?id=642679418159700243",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
@@ -443,25 +531,47 @@
       "sponsorship": "unknown"
     },
     {
+      "title": "JavaFull Stack Developer EntryJunior Level",
+      "company": "SynergisticIT",
+      "location": "Carmel, Indiana",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642689990501010673",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Java Software Developer",
+      "company": "SynergisticIT",
+      "location": "Princeton, New Jersey",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-10-21",
+      "url": "https://www.talent.com/view?id=642670025230722577",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
       "title": "Software Engineer \u2013 Forward Deployed AI; New Grad",
       "company": "algojobs",
       "location": "Oakland, California",
       "remote": false,
       "source": "Digitalhire",
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "url": "https://jobs.digitalhire.com/job-listing/opening/1zJpccnB3FcTlMyGde0Z49",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
     {
-      "title": "Junior Machine learning/AI engineer/Software Developer",
-      "company": "SynergisticIT",
-      "location": "Oak Grove, North Carolina",
+      "title": "GenAI Backend Engineer - Public Sector (Entry-Level)",
+      "company": "Phx Fwd",
+      "location": "Scottsdale, Arizona",
       "remote": false,
-      "source": "AI Search",
-      "posted": "2026-10-20",
-      "url": "https://ai-search.io/job-board/synergisticit-junior-machine-learningai-engineersoftware-developer-20250211",
-      "salary": "Not listed",
+      "source": "JobLeads",
+      "posted": "2026-10-21",
+      "url": "https://www.jobleads.com/us/job/genai-backend-engineer-public-sector-entry-level--scottsdale--e03a8451b6d4038cfc3c51bed9b2d6e5f",
+      "salary": "$90,000 - $120,000 YEAR",
       "sponsorship": "unknown"
     }
   ]
