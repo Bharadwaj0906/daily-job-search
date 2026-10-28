@@ -1,18 +1,7 @@
 {
-  "date": "2026-10-27",
-  "total": 30,
+  "date": "2026-10-28",
+  "total": 10,
   "jobs": [
-    {
-      "title": "Artificial Intelligence Engineer Junior Level",
-      "company": "SynergisticIT",
-      "location": "San Antonio, Texas",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643001565865711482",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
     {
       "title": "Forward Deployed Engineer",
       "company": "Sonata Software North America Inc.",
@@ -22,61 +11,6 @@
       "posted": "2026-10-26",
       "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-sonata-software-north-america-inc-4482958179",
       "salary": "$70,000 - $80,000 YEAR",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Junior machine learning developer entry level Java developer",
-      "company": "SynergisticIT",
-      "location": "San Francisco, California",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643002187142407888",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry Level Programmer/Coder/Developer/Data Scientist/Analyst/Engineer",
-      "company": "WFHQuillen",
-      "location": "",
-      "remote": true,
-      "source": "WFHQuillen",
-      "posted": "2026-10-24",
-      "url": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/entry-level-programmer-coder-developer-data-scientist-analyst-engineer-10",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Data ScientistAnalystEngineer Entryjunior Level",
-      "company": "SynergisticIT",
-      "location": "Newport News, Virginia",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643002187072808656",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Data Analyst Entry Level",
-      "company": "SynergisticIT",
-      "location": "Elizabeth, New Jersey",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643002209907910352",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "JuniorEntry Level Data ScientistAnalyst",
-      "company": "SynergisticIT",
-      "location": "Norman, Oklahoma",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643001580668196730",
-      "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
@@ -91,114 +25,15 @@
       "sponsorship": "yes"
     },
     {
-      "title": "junior java full stack developer/Data analyst",
-      "company": "SynergisticIT",
-      "location": "Phoenix, Arizona",
+      "title": "Research Scientist Graduate; Seed AI Foundation Model Infrastructure PhD) Seed Foundation Model Campus",
+      "company": "ByteDance",
+      "location": "San Jose, California",
       "remote": false,
-      "source": "Digitalhire",
+      "source": "Learn4Good",
       "posted": "2026-10-25",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/1o0BRcHaB3IEJkQSTFbdO1",
-      "salary": "Not listed",
+      "url": "https://www.learn4good.com/jobs/san-jose/california/software_development/5560384882/e/",
+      "salary": "$140,000 - $230,000 YEAR",
       "sponsorship": "yes"
-    },
-    {
-      "title": "Junior Data Scientist with BI Skills",
-      "company": "SynergisticIT",
-      "location": ", Massachusetts",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643002191745525456",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Junior Data Visualization Developer",
-      "company": "SynergisticIT",
-      "location": "Houston, Texas",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643001441662140573",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Business Analyst Entry Level",
-      "company": "SynergisticIT",
-      "location": "",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643001431917461661",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry-Level Quantitative Trading Analyst",
-      "company": "SynergisticIT",
-      "location": "",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643002241785472720",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Software Developer Entry Level",
-      "company": "SynergisticIT",
-      "location": "Midwest City, Oklahoma",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643001547577759610",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry Level Software Developer at SynergisticIT Overland Park, KS",
-      "company": "SynergisticIT",
-      "location": "Overland Park, Kansas",
-      "remote": false,
-      "source": "The Dreamery",
-      "posted": "2026-10-24",
-      "url": "http://www.the-dreamery.org/wp-job/job/entry-level-software-developer-at-synergisticit-overland-park-ks-NGtWRTNnRnRPYXV2cDQ4N1phWjk1SW9ESVE9PQ==",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry level Data Scientist / AI engineer/ Java Software programmer",
-      "company": "SynergisticIT",
-      "location": "Ramona, California",
-      "remote": false,
-      "source": "Ai-Search.io",
-      "posted": "2026-10-24",
-      "url": "https://ai-search.io/job-board/synergisticit-entry-level-data-scientist-ai-engineer-java-software-programmer-20250307",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry Level AI & Machine Learning Engineer",
-      "company": "SynergisticIT",
-      "location": "Raleigh, West Virginia",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643002227398223568",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Software Engineer - New Grad (2027)",
-      "company": "Applied Intuition",
-      "location": "Ann Arbor, Michigan",
-      "remote": false,
-      "source": "ZipRecruiter",
-      "posted": "2026-10-24",
-      "url": "https://www.ziprecruiter.com/c/applied-intuition/Job/Software-Engineer-New-Grad-(2027)/-in-Ann-Arbor,MI?jid=35b50f49530d9366",
-      "salary": "$123,000 - $158,000 YEAR",
-      "sponsorship": "unknown"
     },
     {
       "title": "Robotics AI Engineer (Entry-Level)",
@@ -212,17 +47,6 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "entry level data scientist/AI engineer/Junior java developer",
-      "company": "SynergisticIT",
-      "location": "Alpharetta, Georgia",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-10-24",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/4qL9Qbxpy7BxWKYAJSDwqJ",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
       "title": "\ud83c\udff4\u200d\u2620\ufe0f Software Engineer (New Grads)",
       "company": "Zingage",
       "location": "New York, New York",
@@ -231,6 +55,17 @@
       "posted": "2026-10-25",
       "url": "https://www.builtinnyc.com/job/software-engineer-new-grads/9750682",
       "salary": "$140,000 - $180,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Junior Data Analyst",
+      "company": "D & A Services, LLC",
+      "location": "Des Plaines, Illinois",
+      "remote": false,
+      "source": "Glassdoor",
+      "posted": "2026-10-25",
+      "url": "https://www.glassdoor.com/job-listing/jv?jl=1010307042556",
+      "salary": "$22 - $23 HOUR",
       "sponsorship": "unknown"
     },
     {
@@ -256,57 +91,13 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Remote Junior Analyst: Banking & Payments Research",
-      "company": "Black Financial Consult",
-      "location": "",
-      "remote": true,
-      "source": "JobLeads",
-      "posted": "2026-10-24",
-      "url": "https://www.jobleads.com/us/job/remote-junior-analyst-banking-payments-research--united-states--ed1fbf50420944b6fc574fd36ec75ce13",
-      "salary": "$52,000 - $76,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "35F Intelligence Analyst - Entry Level",
-      "company": "U.S. Army Reserves",
-      "location": "Severn, Maryland",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=640743643679162900",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Hybrid Freelance Data Analyst \u2014 Retail Insights",
-      "company": "24 Seven Talent",
-      "location": "Framingham, Massachusetts",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-10-24",
-      "url": "https://www.jobleads.com/us/job/hybrid-freelance-data-analyst-retail-insights--framingham--eb98513005abeb1927111d76d987bba5b",
-      "salary": "$55,000 - $83,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Analyst",
-      "company": "SRM, Inc.",
-      "location": "Memphis, Tennessee",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-10-24",
-      "url": "https://www.jobleads.com/us/job/analyst--memphis--northern--e41ffddabbffe3135a25f21cbc601d5a2",
-      "salary": "$63,000 - $77,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Entry-Level Microservices Developer",
+      "title": "Web Developer (Junior)- Remote at SynergisticIT United States",
       "company": "SynergisticIT",
-      "location": "Warren, Ohio",
+      "location": "Furlong, Pennsylvania",
       "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-10-24",
-      "url": "https://www.talent.com/view?id=643001546146453370",
+      "source": "Green Treen Accounting & Tax Preparation \u2013 Tax Services",
+      "posted": "2026-10-25",
+      "url": "https://greentreeatp.com/work/job/web-developer-junior-remote-at-synergisticit-united-states-UDJIZXFjdmRjM1hYaEhqYUNTaGk3MCt4Ymc9PQ==",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
@@ -320,17 +111,6 @@
       "url": "https://jobs.digitalhire.com/job-listing/opening/1zJpccnB3FcTlMyGde0Z49",
       "salary": "Not listed",
       "sponsorship": "unknown"
-    },
-    {
-      "title": "Remote Entry-Level Data Engineer \u2013 Big Data & Cloud Solutions at Talensiq \u2013 $70\u201180K Annual Salary, Full\u2011Time, California",
-      "company": "WFHQuillen",
-      "location": "",
-      "remote": true,
-      "source": "WFHQuillen",
-      "posted": "2026-10-24",
-      "url": "https://wfhquillen.r5f.talk4fun.net/remote-jobs/remote-entry-level-data-engineer-big-data-cloud-solutions-at-talensiq-70-80k-annual-salary-full-time-california",
-      "salary": "Not listed",
-      "sponsorship": "no"
     }
   ]
 }
