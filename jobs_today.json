@@ -1,5 +1,325 @@
 {
-  "date": "2026-11-17",
-  "total": 0,
-  "jobs": []
+  "date": "2026-11-18",
+  "total": 29,
+  "jobs": [
+    {
+      "title": "junior data scientist/Data Analyst / java devops developer",
+      "company": "SynergisticIT",
+      "location": "Princeton, New Jersey",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-18",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/1ZHIV0Rm8cRBAOuKVwWeqP",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior java Developer with spring boot/Jr. Data Analyst-remote",
+      "company": "SynergisticIT",
+      "location": "Orlando, Florida",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-18",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/7jYXtiSjTmg3oCxtXSxX7Q",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "entry level machine learning engineer/ Junior Java programmer at SynergisticIT Los Angeles, CA",
+      "company": "SynergisticIT",
+      "location": "Los Angeles, California",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-18",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/Fg3s2spI0Y5sHM8hpGWqL",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Software Developer(Entry/Junior Level)",
+      "company": "SynergisticIT",
+      "location": "New York, New York",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-18",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/46C3b9A09SjBbfkvOvBzOO",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior/Entry Level Data Engineer at SynergisticIT Houston, TX",
+      "company": "SynergisticIT",
+      "location": "Houston, Texas",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-18",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/7jTz1q4MZqSzjhyceqE2sG",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Data Analyst (Remote)",
+      "company": "Data Insight Partners",
+      "location": "Las Vegas, Nevada",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-18",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/2xHuXIwC94P6nOGZvkm0Wc",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Renewable Energy Analyst (Entry-Level)",
+      "company": "Renewable Careers",
+      "location": "Jersey City, New Jersey",
+      "remote": false,
+      "source": "ZipRecruiter",
+      "posted": "2026-11-18",
+      "url": "https://www.ziprecruiter.com/c/renewable-careers/Job/Renewable-Energy-Analyst-(Entry-Level)/-in-Jersey-City,NJ?jid=ac2ddf7020b3316a",
+      "salary": "$80,000 - $100,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry-Level Business Intelligence Analyst - SynergisticIT",
+      "company": "SynergisticIT",
+      "location": "San Jose, California",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-11-18",
+      "url": "https://www.talent.com/view?id=646532315750668608",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "2026 New Grad | Software Engineer, AI",
+      "company": "Loop",
+      "location": "San Francisco, California",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/7P9yuzkuMzMo62f6mjR0wt",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Data Analyst - Remote at SynergisticIT United States",
+      "company": "SynergisticIT",
+      "location": "North College Hill, Ohio",
+      "remote": false,
+      "source": "Takis Pizza II",
+      "posted": "2026-11-15",
+      "url": "https://takispizzaeustis.com/job-library/job/junior-data-analyst-remote-at-synergisticit-united-states-Q0hDbG53WkJZNmNwS2pwa1FNdEZaQzNLbnc9PQ==",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Entry/Junior Level Data Scientist/Python Programmer",
+      "company": "Synergistic IT",
+      "location": "Boston, Massachusetts",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-15",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/1ZB6PJBYLaUDA4zQr3Fd9N",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Process Analyst",
+      "company": "Staff Source",
+      "location": "New York, New York",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-11-16",
+      "url": "https://www.talent.com/view?id=620369280550183655",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Entry Artificial Intelligence/Machine Learning Developer",
+      "company": "Trinnex",
+      "location": "Fairfax, Virginia",
+      "remote": false,
+      "source": "CDM Smith Careers",
+      "posted": "2026-11-17",
+      "url": "https://careers.cdmsmith.com/jobs/4994?lang=en-us",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Machine Learning Engineer - Colcord, West Virginia, US",
+      "company": "HiredBuddy",
+      "location": "Colcord, West Virginia",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-11-15",
+      "url": "https://www.talent.com/view?id=646220272265528573",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Entry level Java aws programmer/junior data scientist AI engineer -Remote",
+      "company": "SynergisticIT",
+      "location": "Mountain View, California",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/3QWlRm9xet2ycxXziVGI9B",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior/Entry Level Data Engineer at SynergisticIT Lacey, WA",
+      "company": "SynergisticIT",
+      "location": "Lacey, Washington",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/2Ph65zUq8q5ZSMbK1j1KYT",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Backend Engineer at SynergisticIT Provo, UT",
+      "company": "SynergisticIT",
+      "location": "Provo, Utah",
+      "remote": false,
+      "source": "Wellbeingmatters",
+      "posted": "2026-11-16",
+      "url": "https://wellbeingmatters.com/opportunity/job/junior-backend-engineer-at-synergisticit-provo-ut-Y2tPRUFRLy9CV2JlL2ZaNENhNGZENWdV",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Remote AI-First Product Engineer Intern",
+      "company": "Bask Health",
+      "location": "",
+      "remote": true,
+      "source": "JobLeads",
+      "posted": "2026-11-16",
+      "url": "https://www.jobleads.com/us/job/remote-ai-first-product-engineer-intern--new-york--ea36901567f8e2b6bf9ef55f077c7e331",
+      "salary": "$41,000 - $55,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Autonomous Perception Software Engineer I",
+      "company": "Shield AI",
+      "location": "Arlington, Virginia",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-11-16",
+      "url": "https://www.jobleads.com/us/job/autonomous-perception-software-engineer-i--arlington--e6b87f9f7df2c78b9fb594ee28e74e3f9",
+      "salary": "$85,000 - $110,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Remote Junior Enterprise Data Analyst",
+      "company": "Kaizen Analytix, LLC.",
+      "location": "",
+      "remote": true,
+      "source": "JobLeads",
+      "posted": "2026-11-15",
+      "url": "https://www.jobleads.com/us/job/remote-junior-enterprise-data-analyst--united-states--ee2127c30f9fffe361d4e43defe02b00b",
+      "salary": "$65,000 - $85,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry Level Intelligence Analyst - No Experience Required (22546)",
+      "company": "US Army Reserves",
+      "location": "Ruther Glen, Virginia",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-11-15",
+      "url": "https://www.talent.com/view?id=646298251673143826",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry-Level Data Analyst: Data-Driven Impact",
+      "company": "Summit Polymers Inc",
+      "location": "Detroit, Michigan",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-15",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/6cEsqLxPZjP60tkEfa76PG",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Junior Master Data Analyst - SAP & Excel Focus",
+      "company": "Aston Carter",
+      "location": "Tampa, Florida",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-11-15",
+      "url": "https://www.jobleads.com/us/job/junior-master-data-analyst-sap-excel-focus--tampa--e917fa603c44b6044a2fea528d46a685c",
+      "salary": "$28,000 - $30,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Intelligence Analyst - No Degree Required, Paid Training",
+      "company": "US Army Reserves",
+      "location": "Ashland, Virginia",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-11-16",
+      "url": "https://www.talent.com/view?id=646466666492332562",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Data Analyst-Entry Level-Internal Staffing-FT 9a-530p-BHC-27986",
+      "company": "Broward Health",
+      "location": "Fort Lauderdale, Florida",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-16",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/58X4qYcLELJt4zNeGLxMtc",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "BI Analyst - Power BI & Dashboards (Entry)",
+      "company": "Acushnet Company",
+      "location": "Conneaut, Ohio",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-11-15",
+      "url": "https://www.jobleads.com/us/job/bi-analyst-power-bi-dashboards-entry--lakeville--eadf8cf88a89940cb754a1e5a132fe06c",
+      "salary": "$60,000 - $75,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry-Level Business Analyst: Process Improvement & Analysis",
+      "company": "Fortray Global Service Limited",
+      "location": "New York, New York",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-11-15",
+      "url": "https://www.jobleads.com/us/job/entry-level-business-analyst-process-improvement-analysis--new-york--e98249257efeb027cbbe57c5f253b784c",
+      "salary": "$55,000 - $75,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Sr Business Analyst Associate",
+      "company": "Quantech Services, Inc.",
+      "location": "Los Angeles, California",
+      "remote": false,
+      "source": "ZipRecruiter",
+      "posted": "2026-11-15",
+      "url": "https://www.ziprecruiter.com/c/Quantech-Services,-Inc./Job/Sr-Business-Analyst-Associate-with-Security-Clearance/-in-Los-Angeles,CA?jid=fdb6ef5ee4328f4f",
+      "salary": "$135,000 - $145,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry-Level AI & Automation Engineer \u2013 Build Workflows",
+      "company": "Myriad360",
+      "location": "",
+      "remote": true,
+      "source": "JobLeads",
+      "posted": "2026-11-16",
+      "url": "https://www.jobleads.com/us/job/entry-level-ai-automation-engineer-build-workflows--united-states--e4aaa1dfcd74feda51aa21a1489d75f35",
+      "salary": "$77,000 - $94,000 YEAR",
+      "sponsorship": "unknown"
+    }
+  ]
 }
