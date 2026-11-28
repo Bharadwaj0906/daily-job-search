@@ -1,17 +1,28 @@
 {
-  "date": "2026-11-27",
-  "total": 70,
+  "date": "2026-11-28",
+  "total": 68,
   "jobs": [
     {
-      "title": "Junior Software Engineer/Junior Machine Learning Engineer \u2013 Remote",
-      "company": "SynergisticIT",
+      "title": "Product Engineer (US) (up to $240k)",
+      "company": "Dex",
+      "location": "New York, New York",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "2026-11-28",
+      "url": "https://www.linkedin.com/jobs/view/product-engineer-us-up-to-%24240k-at-dex-4496008715",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Data Analyst",
+      "company": "goLance",
       "location": "",
       "remote": true,
       "source": "LinkedIn",
-      "posted": "2026-11-27",
-      "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-junior-machine-learning-engineer-%E2%80%93-remote-at-synergisticit-4495074066",
-      "salary": "$82,000 - $127,000 YEAR",
-      "sponsorship": "yes"
+      "posted": "2026-11-28",
+      "url": "https://www.linkedin.com/jobs/view/data-analyst-at-golance-4495360330",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
     },
     {
       "title": "Forward Deployed Engineer - US East Coast",
@@ -25,46 +36,79 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Jr. GTM Engineer",
-      "company": "vState Filings LLC",
-      "location": "Hewlett, New York",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-11-27",
-      "url": "https://www.linkedin.com/jobs/view/jr-gtm-engineer-at-vstate-filings-llc-4495310847",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "AI Engineer (Entry Level) at Uptime Crew Washington DC",
-      "company": "Uptime Crew",
-      "location": "Washington, District of Columbia",
-      "remote": false,
-      "source": "Timmertechniek",
-      "posted": "2026-11-24",
-      "url": "https://timmertechniek.com/jobs/job/ai-engineer-entry-level-at-uptime-crew-washington-dc-OHNCR3FCYUdObEpIWU5MaFBVWUJZblFyNXc9PQ==",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Agentic AI Engineers / Remote",
-      "company": "Apetan Consulting LLC",
-      "location": ", New Jersey",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-11-25",
-      "url": "https://www.linkedin.com/jobs/view/agentic-ai-engineers-remote-at-apetan-consulting-llc-4494683184",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "junior data scientist/Data Analyst / java devops developer",
+      "title": "entry level machine learning engineer-remote at SynergisticIT Madison, WI",
       "company": "SynergisticIT",
-      "location": "Princeton, New Jersey",
+      "location": "Madison, Wisconsin",
       "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-11-24",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/1ZHIV0Rm8cRBAOuKVwWeqP",
+      "source": "Direct Development",
+      "posted": "2026-11-26",
+      "url": "https://directdevelopmentpr.com/office/job/entry-level-machine-learning-engineer-remote-at-synergisticit-madison-wi-dHJVd3EyOElPN1d4dk5NaDE2bFVnMXN4eGc9PQ==",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Data Scientist entry level /AI/software programmer(Remote) at SynergisticIT United States",
+      "company": "SynergisticIT",
+      "location": "",
+      "remote": false,
+      "source": "Victorious Family",
+      "posted": "2026-11-26",
+      "url": "https://victoriousfamily.org/library/job/junior-data-scientist-entry-level-ai-software-programmer-remote-at-synergisticit-united-states-dUlLc2NDZ2lYd05veHVrclVwcFZ1N2x3dXc9PQ==",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "AI Strategy & Operations Intern - Build & Ship Tools",
+      "company": "Direct Agents",
+      "location": "New York, New York",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-11-25",
+      "url": "https://www.jobleads.com/us/job/ai-strategy-operations-intern-build-ship-tools--new-york--e4388c8cdf80fa09648ae69fc4736ae28",
+      "salary": "$34,000 - $41,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Entry-Level SRE at NeuroHire - Build Cloud & DevOps Skills",
+      "company": "neurohire.ai",
+      "location": "",
+      "remote": true,
+      "source": "JobLeads",
+      "posted": "2026-11-26",
+      "url": "https://www.jobleads.com/us/job/entry-level-sre-at-neurohire-build-cloud-devops-skills--united-states--e3c348a04d0270511defe4d3ed0dde177",
+      "salary": "$85,000 - $110,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Data Scientist/Engineer at SynergisticIT Springfield, MO",
+      "company": "SynergisticIT",
+      "location": "Springfield, Missouri",
+      "remote": false,
+      "source": "Victorious Family",
+      "posted": "2026-11-26",
+      "url": "https://victoriousfamily.org/library/job/junior-data-scientist-engineer-at-synergisticit-springfield-mo-dVlXbWRTZ2xXUWR2emVzcFZaVlpzN2R4dFE9PQ==",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior Data Scientist /Entry level Java spring boot developer/ data engineer-remote",
+      "company": "SynergisticIT",
+      "location": "Ann Arbor, Michigan",
+      "remote": false,
+      "source": "BeBee",
+      "posted": "2026-11-25",
+      "url": "https://bebee.com/us/jobs/junior-data-scientist-entry-level-java-spring-boot-developer-data-engineer-remote-synergisticit-ann---ss-us-2oef8s",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Data Scientist/Junior-Level at SynergisticIT United States",
+      "company": "SynergisticIT",
+      "location": "Limon, Colorado",
+      "remote": false,
+      "source": "MagnetFactory.com",
+      "posted": "2026-11-26",
+      "url": "https://www.magnetfactory.com/wp-job/job/data-scientist-junior-level-at-synergisticit-united-states-VWRiK1VrTFZmRFhzU1JXa3ZDN1o3aFUzbHc9PQ==",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -80,79 +124,13 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Junior Data Scientist/Engineer at SynergisticIT Springfield, MO",
+      "title": "Junior Data Scientist at SynergisticIT Long Beach, CA",
       "company": "SynergisticIT",
-      "location": "Springfield, Missouri",
+      "location": "Long Beach, California",
       "remote": false,
-      "source": "Victorious Family",
-      "posted": "2026-11-26",
-      "url": "https://victoriousfamily.org/library/job/junior-data-scientist-engineer-at-synergisticit-springfield-mo-dVlXbWRTZ2xXUWR2emVzcFZaVlpzN2R4dFE9PQ==",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Data Analyst/Engineer - Junior/Entry at SynergisticIT Baltimore, MD",
-      "company": "SynergisticIT",
-      "location": "Baltimore, Maryland",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-11-24",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/4USL3z7j5sxFOQi5EAWMtM",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Data Analytics Technical Lead",
-      "company": "Accenture Federal Services",
-      "location": "Chantilly, Virginia",
-      "remote": false,
-      "source": "ZipRecruiter",
-      "posted": "2026-11-24",
-      "url": "https://www.ziprecruiter.com/c/accenture-federal-services/Job/Data-Analytics-Technical-Lead/-in-Chantilly,VA?jid=12bdd6dd35ad7413",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Junior Data Analyst - Remote at SynergisticIT United States",
-      "company": "SynergisticIT",
-      "location": "Mantachie, Mississippi",
-      "remote": false,
-      "source": "HighViz Graphics",
+      "source": "Souk In Style",
       "posted": "2026-11-25",
-      "url": "https://highvizgraphics.com/joblib/job/junior-data-analyst-remote-at-synergisticit-united-states-elpoMlRZUW1YTXpxVjlWOEpmUDUvaHlaOEE9PQ==",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry-Level QA & Business Analyst",
-      "company": "MicroCoders LLC",
-      "location": "Herndon, Virginia",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/entry-level-qa-business-analyst--herndon--e8d161d5e8230e56f31efca34f7a649b9",
-      "salary": "$45,000 - $75,000 YEAR",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Business Analyst - Entry Level",
-      "company": "CGI",
-      "location": "Miami, Florida",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-11-25",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/OXmY3lZviqmrWtGs9hdZf",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Entry-Level \u2013 AI/Machine Learning Researcher - Mountain View, CA",
-      "company": "VetJobs",
-      "location": "Mountain View, California",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-11-25",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-%E2%80%93-ai-machine-learning-researcher-mountain-view-ca-at-vetjobs-4494955722",
+      "url": "https://soukinstyle.com/opportunity/job/junior-data-scientist-at-synergisticit-long-beach-ca-Uk96UlRQYmVqb3p0L2N5ZCtHMU9LNTlOUGc9PQ==",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -168,6 +146,39 @@
       "sponsorship": "yes"
     },
     {
+      "title": "Junior Data Analyst - Remote at SynergisticIT United States",
+      "company": "SynergisticIT",
+      "location": "Mantachie, Mississippi",
+      "remote": false,
+      "source": "HighViz Graphics",
+      "posted": "2026-11-25",
+      "url": "https://highvizgraphics.com/joblib/job/junior-data-analyst-remote-at-synergisticit-united-states-elpoMlRZUW1YTXpxVjlWOEpmUDUvaHlaOEE9PQ==",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Junior java Developer with spring boot/Jr. Data Analyst-remote",
+      "company": "SynergisticIT",
+      "location": "Orlando, Florida",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-27",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/7jYXtiSjTmg3oCxtXSxX7Q",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "(USA) Data Analyst II",
+      "company": "Vizio",
+      "location": "Paterson, New Jersey",
+      "remote": false,
+      "source": "ZipRecruiter",
+      "posted": "2026-11-26",
+      "url": "https://www.ziprecruiter.com/c/Vizio/Job/(USA)-Data-Analyst-II/-in-Paterson,NJ?jid=ebab71864d8de2fe",
+      "salary": "$84,000 - $156,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
       "title": "entry level machine learning engineer/ Junior Java programmer at SynergisticIT Los Angeles, CA",
       "company": "SynergisticIT",
       "location": "Los Angeles, California",
@@ -179,13 +190,24 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Junior Machine Learning Engineer at SynergisticIT North Las Vegas, NV",
+      "title": "Entry level Java fullstack developer/Junior Machine learning engineer",
       "company": "SynergisticIT",
-      "location": "North Las Vegas, Nevada",
+      "location": "Atlanta, Georgia",
       "remote": false,
-      "source": "Hud Homes Revealed",
-      "posted": "2026-11-24",
-      "url": "https://hudhomesrevealed.com/career/job/junior-machine-learning-engineer-at-synergisticit-north-las-vegas-nv-SFFOVmF3cUtjSjNpZjZsY0JMVnhXYlduaEE9PQ==",
+      "source": "Digitalhire",
+      "posted": "2026-11-27",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/3xuEfE6fuEj1JTzqbbK48u",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Software Developer(Entry/Junior Level)",
+      "company": "SynergisticIT",
+      "location": "New York, New York",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-27",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/46C3b9A09SjBbfkvOvBzOO",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -198,17 +220,6 @@
       "posted": "2026-11-25",
       "url": "https://jobs.digitalhire.com/job-listing/opening/4CPlWxUgBFb5HS05dseI0f",
       "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Artificial Intelligence and Machine Learning Systems Engineer",
-      "company": "Sonalysts, Inc.",
-      "location": "Waterford, Connecticut",
-      "remote": false,
-      "source": "Monster",
-      "posted": "2026-11-24",
-      "url": "https://www.monster.com/job-openings/artificial-intelligence-and-machine-learning-systems-engineer-waterford-ct--7e1e21a2-9a53-4840-b58d-79db6872460d",
-      "salary": "$85,000 - $130,000 YEAR",
       "sponsorship": "yes"
     },
     {
@@ -228,20 +239,9 @@
       "location": "New York, New York",
       "remote": false,
       "source": "Adobe Careers",
-      "posted": "2026-11-25",
+      "posted": "2026-11-27",
       "url": "https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer",
       "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Software Engineer 4 - AI Native",
-      "company": "Granicus",
-      "location": "",
-      "remote": true,
-      "source": "Jobgether",
-      "posted": "2026-11-26",
-      "url": "https://jobgether.com/offer/6b08970b1870ab7f4cce3dd2-software-engineer-4---ai-native",
-      "salary": "$88,000 - $180,000 YEAR",
       "sponsorship": "yes"
     },
     {
@@ -256,13 +256,24 @@
       "sponsorship": "yes"
     },
     {
-      "title": "AI/ML Engineer - Agentic",
-      "company": "Hewlett Packard Enterprise",
-      "location": ", Texas",
-      "remote": false,
+      "title": "Software Engineer 4 - AI Native",
+      "company": "Granicus",
+      "location": "",
+      "remote": true,
+      "source": "Jobgether",
+      "posted": "2026-11-26",
+      "url": "https://jobgether.com/offer/6b08970b1870ab7f4cce3dd2-software-engineer-4---ai-native",
+      "salary": "$88,000 - $180,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Remote Software Engineer, AI Platform",
+      "company": "Ambrook",
+      "location": "",
+      "remote": true,
       "source": "Talent.com",
-      "posted": "2026-11-24",
-      "url": "https://www.talent.com/view?id=647561011215936289",
+      "posted": "2026-11-25",
+      "url": "https://www.talent.com/view?id=647686213080651365",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -278,68 +289,13 @@
       "sponsorship": "yes"
     },
     {
-      "title": "Senior Software Developer \u2014 AI Harness Development",
-      "company": "BAE Systems",
-      "location": "McLean, Virginia",
-      "remote": false,
-      "source": "BAE Systems",
-      "posted": "2026-11-26",
-      "url": "https://jobs.baesystems.com/global/en/job/131755BR/Senior-Software-Developer-%E2%80%94-AI-Harness-Development",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "AI Engineer \u2014 Federal Health IT",
-      "company": "Rackner",
-      "location": "",
-      "remote": true,
-      "source": "Jobgether",
-      "posted": "2026-11-24",
-      "url": "https://jobgether.com/offer/6b0656991870ab7f4cc3d352-ai-engineer----federal-health-it",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "2027 Summer Intern \u2013 Software Engineer, AV/AI Platform",
-      "company": "General Motors",
-      "location": "Aberdeen Proving Ground, Maryland",
-      "remote": false,
-      "source": "LinkedIn",
-      "posted": "2026-11-25",
-      "url": "https://www.linkedin.com/jobs/view/2027-summer-intern-%E2%80%93-software-engineer-av-ai-platform-at-general-motors-4494480902",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "GTM AI Engineer",
-      "company": "LaunchDarkly",
-      "location": "",
-      "remote": true,
-      "source": "Jobgether",
-      "posted": "2026-11-25",
-      "url": "https://jobgether.com/offer/6b07a8351870ab7f4cca3e11-gtm-ai-engineer",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Principal Engineer AI Adoption",
-      "company": "Eclaro",
-      "location": "Woodbridge Township, New Jersey",
+      "title": "Principal / Senior Principal Software Engineer, Java/Python & AI",
+      "company": "Talent Search PRO",
+      "location": "St. Louis, Missouri",
       "remote": false,
       "source": "Talent.com",
-      "posted": "2026-11-26",
-      "url": "https://www.talent.com/view?id=647894343562439457",
-      "salary": "Not listed",
-      "sponsorship": "yes"
-    },
-    {
-      "title": "Enterprise Agilist (AI/ML) Jobs",
-      "company": "Clearance Jobs",
-      "location": "New Cumberland, Pennsylvania",
-      "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-11-25",
-      "url": "https://www.talent.com/view?id=647783526122720532",
+      "posted": "2026-11-27",
+      "url": "https://www.talent.com/view?id=647989866672952933",
       "salary": "Not listed",
       "sponsorship": "yes"
     },
@@ -355,6 +311,28 @@
       "sponsorship": "yes"
     },
     {
+      "title": "Artificial Intelligence Engineer",
+      "company": "BeaconFire Inc.",
+      "location": "Sacate, Arizona",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "2026-11-27",
+      "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-beaconfire-inc-4491614784",
+      "salary": "$62,000 - $80,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Machine Learning Engineer/Senior Machine Learning Engineer, Agentic Systems, AI for Drug Discovery",
+      "company": "Genentech",
+      "location": "New York, New York",
+      "remote": false,
+      "source": "Careers At Genentech",
+      "posted": "2026-11-25",
+      "url": "https://careers.gene.com/us/en/job/202607-118950/Machine-Learning-Engineer-Senior-Machine-Learning-Engineer-Agentic-Systems-AI-for-Drug-Discovery",
+      "salary": "Not listed",
+      "sponsorship": "yes"
+    },
+    {
       "title": "Software Engineer - Voice AI (Inference Runtime)",
       "company": "Baseten",
       "location": "New York, New York",
@@ -363,6 +341,17 @@
       "posted": "2026-11-25",
       "url": "https://www.ziprecruiter.com/c/Baseten/Job/Software-Engineer-Voice-AI-(Inference-Runtime)/-in-New-York,NY?jid=70a5a525a0686ff2",
       "salary": "$165,000 - $330,000 YEAR",
+      "sponsorship": "yes"
+    },
+    {
+      "title": "Enterprise Agilist (AI/ML) Jobs",
+      "company": "Clearance Jobs",
+      "location": "New Cumberland, Pennsylvania",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-11-25",
+      "url": "https://www.talent.com/view?id=647783526122720532",
+      "salary": "Not listed",
       "sponsorship": "yes"
     },
     {
@@ -388,14 +377,25 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "AI/ML Graduate \u2013 Entry-Level Data Scientist",
-      "company": "Virtusa Corporation",
+      "title": "Junior AI Engineer (Entry-Level) at nexacode United States",
+      "company": "nexacode",
+      "location": "Monroe, Virginia",
+      "remote": false,
+      "source": "Inspirationcandleshop.com",
+      "posted": "2026-11-27",
+      "url": "https://inspirationcandleshop.com/career/job/junior-ai-engineer-entry-level-at-nexacode-united-states-SHE5SzRBTXB1K2diZTRtSXBWSTZjYk4zTHc9PQ==",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "New Grad Security AI Agent Engineer - Deploy & Drive Impact",
+      "company": "Cogent Security",
       "location": "New York, New York",
       "remote": false,
       "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/ai-ml-graduate-entry-level-data-scientist--new-york--ebbe142dd49ec1ed1c059ae27b1591a07",
-      "salary": "$70,000 - $100,000 YEAR",
+      "posted": "2026-11-26",
+      "url": "https://www.jobleads.com/us/job/new-grad-security-ai-agent-engineer-deploy-drive-impact--new-york--e36e5c880d719195e64586cdbfbfee35c",
+      "salary": "$110,000 - $170,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -407,6 +407,39 @@
       "posted": "2026-11-25",
       "url": "https://jobs.digitalhire.com/job-listing/opening/02a802ef-bc02-4364-ba4f-4adf9b98c9cf",
       "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Software Engineer (Entry Level) Kira Learning New York, NY +1 more Hybrid \u00b7 Junior $115k\u2013$140k Ships with Claude Code Ashby 15h 9m ago",
+      "company": "Saywise",
+      "location": "New York, New York",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-26",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/a10e2d4f-a30b-4363-83d3-fe4f6ddfad07",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Remote AI & ML Intern - Entry Level",
+      "company": "PrepLinc",
+      "location": "",
+      "remote": true,
+      "source": "JobLeads",
+      "posted": "2026-11-26",
+      "url": "https://www.jobleads.com/us/job/remote-ai-ml-intern-entry-level--united-states--e42ffa09ea7ef743068d17d5d64ab6220",
+      "salary": "$15,000 - $25,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Autonomy Software Engineer - New Grad (C++/Python)",
+      "company": "Engg",
+      "location": "San Diego, California",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-11-25",
+      "url": "https://www.jobleads.com/us/job/autonomy-software-engineer-new-grad-c-python--san-diego--e90213b9bdfa78da68c99f7d0c602a782",
+      "salary": "$110,000 - $150,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -432,17 +465,6 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Associate Software Engineer; Entry Level\u200b/Data Engineer\u200b/Data Scientist snowflake",
-      "company": "SynergisticIT",
-      "location": "Jersey City, New Jersey",
-      "remote": false,
-      "source": "Learn4Good",
-      "posted": "2026-11-24",
-      "url": "https://www.learn4good.com/jobs/jersey-city/new-jersey/software_development/5665276212/e/",
-      "salary": "$95,000 - $154,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
       "title": "Junior Data Analyst",
       "company": "MANTECH",
       "location": "Ashburn, Virginia",
@@ -454,69 +476,47 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Business Data Analyst, Construction; Entry Level",
-      "company": "EMCOR Group",
-      "location": "Baltimore, Maryland",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-11-26",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/6rxn3W8jx8YApMZJDr2TMz",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Data Analyst (Remote)",
-      "company": "Beovexis",
-      "location": "",
-      "remote": true,
-      "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/junior-data-analyst-remote--new-york--e2c8c5f0530d7955af6e76775538e5eb6",
-      "salary": "$42,000 - $62,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Data Analyst: Tableau Dashboards & Insights",
-      "company": "Comunidade Metodista",
-      "location": "Dayton, Ohio",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-11-25",
-      "url": "https://www.jobleads.com/us/job/junior-data-analyst-tableau-dashboards-insights--dayton--e183c2e85da980c5749a69178ce693a57",
-      "salary": "$52,000 - $68,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Entry-Level Data Analyst: Data-Driven Impact",
-      "company": "Summit Polymers Inc",
-      "location": "Detroit, Michigan",
-      "remote": false,
-      "source": "Digitalhire",
-      "posted": "2026-11-24",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/6cEsqLxPZjP60tkEfa76PG",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Data Analyst, Excel Experience Required - Work From Home at Ginas Tech Jobs Remote",
-      "company": "Ginas Tech Jobs",
-      "location": "",
-      "remote": true,
-      "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/junior-data-analyst-excel-experience-required-work-from-home-at-ginas-tech-jobs-remote--united-states--e5a4b0ce70994d2ccc531cefe55346f2f",
-      "salary": "$40,000 - $60,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Entry-Level Quantitative Analyst: Data Modeling & Insights",
-      "company": "Anarust Inc.",
+      "title": "Junior Data/Business Analyst",
+      "company": "SynergisticIT",
       "location": "New York, New York",
       "remote": false,
+      "source": "BeBee",
+      "posted": "2026-11-26",
+      "url": "https://bebee.com/us/jobs/junior-data-business-analyst-synergisticit-stony-brook--lensa-7428_2b5bbb7698ce6f8d303b3f34d71de3a72bf0e7c479682e188e06f9f0d31f5b00",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Jr. Data Analyst at SynergisticIT Kansas, MO",
+      "company": "SynergisticIT",
+      "location": "Kansas City, Missouri",
+      "remote": false,
+      "source": "Mynd-Style.com",
+      "posted": "2026-11-26",
+      "url": "https://www.mynd-style.com/office/job/jr-data-analyst-at-synergisticit-kansas-mo-aWtIelpMOG1UcXR1VnpvaXprLzAyOUltQ0E9PQ==",
+      "salary": "Not listed",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Netflix Job Openings In Data Analyst $35/Hour Job ID- 1256 Job ID- 3524",
+      "company": "MaziCTools",
+      "location": "Los Angeles, California",
+      "remote": false,
       "source": "JobLeads",
       "posted": "2026-11-25",
-      "url": "https://www.jobleads.com/us/job/entry-level-quantitative-analyst-data-modeling-insights--fillmore--ea718d461ac9307d82fc18eadba242164",
-      "salary": "$65,000 - $90,000 YEAR",
+      "url": "https://www.jobleads.com/us/job/netflix-job-openings-in-data-analyst-35-hour-job-id-1256-job-id-3524--los-angeles--e5ba726b17fa0aaa947440a7c178a1c17",
+      "salary": "$48,000 - $63,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Renewable Energy Analyst (Entry-Level)",
+      "company": "Renewable Careers",
+      "location": "Jersey City, New Jersey",
+      "remote": false,
+      "source": "LinkedIn",
+      "posted": "2026-11-27",
+      "url": "https://www.linkedin.com/jobs/view/renewable-energy-analyst-entry-level-at-renewable-careers-4495828955",
+      "salary": "$80,000 - $100,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -531,28 +531,6 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Junior Data Analyst at SynergisticIT Rochester, NH",
-      "company": "SynergisticIT",
-      "location": "Rochester, New Hampshire",
-      "remote": false,
-      "source": "AMEAE Appliances",
-      "posted": "2026-11-26",
-      "url": "https://ameaeappliances.com/work/job/junior-data-analyst-at-synergisticit-rochester-nh-SDNVaE4vRkFHeFFTU3kvdFVIVnFmK09ERlE9PQ==",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Marketing Analyst",
-      "company": "Cypress North",
-      "location": "New York, New York",
-      "remote": false,
-      "source": "BeBee",
-      "posted": "2026-11-24",
-      "url": "https://bebee.com/us/jobs/junior-marketing-analyst-cypress-north-buffalo-ny--jooble--3936267079240616310",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
       "title": "Entry-Level Data Analyst, Security Analytics & Innovation",
       "company": "Job",
       "location": ", Oregon",
@@ -564,24 +542,13 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Renewable Energy Analyst (Entry-Level)",
-      "company": "Renewable Careers",
-      "location": "Jersey City, New Jersey",
+      "title": "Junior Data Analyst at SynergisticIT Rochester, NH",
+      "company": "SynergisticIT",
+      "location": "Rochester, New Hampshire",
       "remote": false,
-      "source": "ZipRecruiter",
-      "posted": "2026-11-25",
-      "url": "https://www.ziprecruiter.com/c/renewable-careers/Job/Renewable-Energy-Analyst-(Entry-Level)/-in-Jersey-City,NJ?jid=ac2ddf7020b3316a",
-      "salary": "$80,000 - $100,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Junior Data Researcher \u2014 Energy & Data Center Markets",
-      "company": "Voltility",
-      "location": "",
-      "remote": true,
-      "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/junior-data-researcher-energy-data-center-markets--united-states--ec8b7152a1e9f3a3aee6456d35fe978f5",
+      "source": "AMEAE Appliances",
+      "posted": "2026-11-26",
+      "url": "https://ameaeappliances.com/work/job/junior-data-analyst-at-synergisticit-rochester-nh-SDNVaE4vRkFHeFFTU3kvdFVIVnFmK09ERlE9PQ==",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
@@ -597,36 +564,25 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Remote Data Entry & Analytics Specialist (Power BI)",
-      "company": "Workoo Technologies",
-      "location": "",
-      "remote": true,
-      "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/remote-data-entry-analytics-specialist-power-bi--dallas--e368b8b164a46f33ef423bda8b7528923",
-      "salary": "$42,000 - $72,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Medicaid Data & Policy Analyst",
-      "company": "Mathematica, Inc.",
-      "location": "Princeton, New Jersey",
+      "title": "Manufacturing Finance Data Analyst: Insights & Automation",
+      "company": "Jabil Inc.",
+      "location": "Grantsville, Utah",
       "remote": false,
       "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/medicaid-data-policy-analyst--princeton--e6df1a62fa97f329ec8e49d476b402316",
-      "salary": "$57,000 - $65,000 YEAR",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Entry-Level Machine Learning Engineer \u2014 Hands-On ML",
-      "company": "The Aerozone",
-      "location": "Cleveland, Ohio",
-      "remote": false,
-      "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/entry-level-machine-learning-engineer-hands-on-ml--cleveland--e229c85507a2aa1cf2147adadbee95ecc",
+      "posted": "2026-11-25",
+      "url": "https://www.jobleads.com/us/job/manufacturing-finance-data-analyst-insights-automation--grantsville--e73a6a2be638c68b0eded05a62d50fdee",
       "salary": "$65,000 - $90,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Entry Level Machine Learning Engineer at SynergisticIT Sacramento, CA",
+      "company": "SynergisticIT",
+      "location": "Sacramento, California",
+      "remote": false,
+      "source": "Digitalhire",
+      "posted": "2026-11-27",
+      "url": "https://jobs.digitalhire.com/job-listing/opening/8K88PGV9G7r0vWrXgI2oY",
+      "salary": "Not listed",
       "sponsorship": "unknown"
     },
     {
@@ -641,13 +597,13 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Junior Data Engineer (Remote)",
-      "company": "SynergisticIT",
-      "location": "New York, New York",
-      "remote": false,
-      "source": "Digitalhire",
+      "title": "Signal Processing Engineer - AI Trainer",
+      "company": "DataAnnotation",
+      "location": "",
+      "remote": true,
+      "source": "LinkedIn",
       "posted": "2026-11-25",
-      "url": "https://jobs.digitalhire.com/job-listing/opening/kOPBgY57YeOvQvXkyMN4s",
+      "url": "https://www.linkedin.com/jobs/view/signal-processing-engineer-ai-trainer-at-dataannotation-4495243653",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
@@ -660,28 +616,6 @@
       "posted": "2026-11-25",
       "url": "https://jobs.digitalhire.com/job-listing/opening/7VFRfeInx4Sozi0iJLetet",
       "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Backend Developer - Remote at SynergisticIT United States",
-      "company": "SynergisticIT",
-      "location": "Cornwall, Connecticut",
-      "remote": false,
-      "source": "Fromdanielsdesk.com",
-      "posted": "2026-11-25",
-      "url": "https://fromdanielsdesk.com/jobs/job/backend-developer-remote-at-synergisticit-united-states-TVlPaHhHNVNyMzdVMk9Dcno2a1RmYzhsekE9PQ==",
-      "salary": "Not listed",
-      "sponsorship": "unknown"
-    },
-    {
-      "title": "Software Engineer, Core Systems (New Grad, 2027)",
-      "company": "Scout AI",
-      "location": "Sunnyvale, California",
-      "remote": false,
-      "source": "Jobs",
-      "posted": "2026-11-25",
-      "url": "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897",
-      "salary": "$135,000 - $190,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -707,25 +641,25 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Software Engineer -- AI Tools and Applications",
-      "company": "Intezra, Inc.",
-      "location": "Columbia, Maryland",
+      "title": "AI Engineer",
+      "company": "UST",
+      "location": "Norfolk, Virginia",
       "remote": false,
-      "source": "Talent.com",
-      "posted": "2026-11-24",
-      "url": "https://www.talent.com/view?id=647574519206643060",
+      "source": "LinkedIn",
+      "posted": "2026-11-25",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-ust-4493470246",
       "salary": "Not listed",
       "sponsorship": "unknown"
     },
     {
-      "title": "New Grad Data Scientist: AI for Business Functions",
-      "company": "Micron Technology, Inc.",
-      "location": "Boise, Idaho",
+      "title": "ML Engineer, Grad++ \u2014 Generative AI & LLMs",
+      "company": "Atlassian Corp.",
+      "location": "Seattle, Washington",
       "remote": false,
       "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/new-grad-data-scientist-ai-for-business-functions--boise--eb61bf725e8e1b6cfde187eb0f36a38da",
-      "salary": "$30,000 - $39,000 YEAR",
+      "posted": "2026-11-26",
+      "url": "https://www.jobleads.com/us/job/ml-engineer-grad-generative-ai-llms--seattle--e4351b7e68a5630b28a71e3c7a5965407",
+      "salary": "$132,000 - $192,000 YEAR",
       "sponsorship": "unknown"
     },
     {
@@ -740,14 +674,14 @@
       "sponsorship": "unknown"
     },
     {
-      "title": "Remote Software Engineer - Dash (AI Growth)",
-      "company": "Liftoff",
-      "location": "",
-      "remote": true,
-      "source": "JobLeads",
-      "posted": "2026-11-24",
-      "url": "https://www.jobleads.com/us/job/remote-software-engineer-dash-ai-growth--salem--e04def3471259894dec891f4fc0e46d8c",
-      "salary": "$180,000 - $223,000 YEAR",
+      "title": "Platform Engineers (Mid/Sr/Staff); Developer Experience / DevX @ Global FinTech Unicorn - Coding &",
+      "company": "Sprint and Partners",
+      "location": "McHenry, Illinois",
+      "remote": false,
+      "source": "Talent.com",
+      "posted": "2026-11-27",
+      "url": "https://www.talent.com/view?id=647989886602581605",
+      "salary": "Not listed",
       "sponsorship": "unknown"
     },
     {
@@ -762,6 +696,17 @@
       "sponsorship": "unknown"
     },
     {
+      "title": "Software Developer | $40/hr",
+      "company": "Codefeast",
+      "location": "",
+      "remote": true,
+      "source": "JobLeads",
+      "posted": "2026-11-26",
+      "url": "https://www.jobleads.com/us/job/software-developer-40-hr--united-states--eb642b0d1721b7510c67050f9e8c84e2f",
+      "salary": "$45,000 - $65,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
       "title": "Remote-First Staff Software Engineer: AI Platform & Core Systems",
       "company": "Coinbase, Inc.",
       "location": "Tallahassee, Florida",
@@ -771,6 +716,39 @@
       "url": "https://www.jobleads.com/us/job/remote-first-staff-software-engineer-ai-platform-core-systems--tallahassee--eb6685832e44308ab1a257a2f62838bc6",
       "salary": "$218,000 - $257,000 YEAR",
       "sponsorship": "unknown"
+    },
+    {
+      "title": "ML Engineer Intern: Build & Optimize Agentic AI",
+      "company": "SambaNova",
+      "location": "Austin, Texas",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-11-25",
+      "url": "https://www.jobleads.com/us/job/ml-engineer-intern-build-optimize-agentic-ai--austin--eb6cf0817f453ed17a56585d775989e54",
+      "salary": "$28,000 - $39,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+      "company": "ServiceNow",
+      "location": "Mountain View, California",
+      "remote": false,
+      "source": "JobLeads",
+      "posted": "2026-11-25",
+      "url": "https://www.jobleads.com/us/job/software-engineer-core-infrastructure-moveworks-new-grad--mountain-view--e597bfae8052189da9f31183780219e96",
+      "salary": "$126,000 - $195,000 YEAR",
+      "sponsorship": "unknown"
+    },
+    {
+      "title": "Full Stack Cloud Developer, AI/ML Integration",
+      "company": "Tanaq Technical Services",
+      "location": "",
+      "remote": true,
+      "source": "Talent.com",
+      "posted": "2026-11-26",
+      "url": "https://www.talent.com/view?id=647897531102070132",
+      "salary": "Not listed",
+      "sponsorship": "no"
     }
   ]
 }
